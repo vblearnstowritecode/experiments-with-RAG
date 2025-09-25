@@ -1,0 +1,16 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Large files
+TCS_Annual_Report.pdf
+
+# ChromaDB data
+chroma_db/

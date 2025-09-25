@@ -1,0 +1,14 @@
+[project]
+name = "25september2025"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "chromadb>=1.1.0",
+    "langchain>=0.3.27",
+    "openai>=1.109.1",
+    "pypdf>=6.1.0",
+    "python-dotenv>=1.1.1",
+    "sentence-transformers>=5.1.1",
+]
