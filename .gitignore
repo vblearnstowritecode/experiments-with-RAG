@@ -9,8 +9,25 @@ wheels/
 # Virtual environments
 .venv
 
+# Environment variables (contains API keys)
+.env
+
+# Project documentation (contains private instructions)
+CLAUDE.md
+
 # Large files
 TCS_Annual_Report.pdf
 
 # ChromaDB data
 chroma_db/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
