@@ -31,3 +31,7 @@ chroma_db/
 # OS files
 .DS_Store
 Thumbs.db
+
+# Course materials (not to be committed)
+L1-student.md
+L3-student.md

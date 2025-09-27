@@ -1,0 +1,550 @@
+question_id,question,difficulty,original_answer,original_time_seconds,original_success,expansion_answer,expansion_time_seconds,expansion_success,timestamp,llm_original_score,llm_expansion_score,llm_original_rationale,llm_expansion_rationale
+1,What is TCS's revenue for FY 2025?,Easy,"Based only on the information provided above, **TCS's revenue for FY 2025 is ₹255,324 crore**.",2.1,True,"Based on the information provided in the excerpts from the TCS Annual Report, TCS's consolidated revenue for FY 2025 is **₹255,324 crore**.",6.0,True,2025-09-27 21:37:59,1,1,"The original answer states that TCS's revenue for FY 2025 is ₹255,324 crore. This is fully supported by multiple excerpts from the provided TCS Annual Report context, which clearly mention that the revenue from operations (or consolidated revenue) for FY 2025 was ₹255,324 crore. For instance, the text states: ""on a consolidated basis, the revenue from operations for fy 2025 was ` 2, 55, 324 crore, higher by 6. 0 % over the previous year..."" and several other chunks confirm this number. Therefore, the answer is factually correct and well-supported.","The expanded answer also correctly identifies TCS's consolidated revenue for FY 2025 as ₹255,324 crore and explicitly ties it to the annual report excerpts. The expansion correctly specifies ""consolidated revenue"" and uses the direct figure found in the context, maintaining accuracy and support from the text provided. Both answers are equivalent in correctness based on the context chunks shared."
+2,How many employees does TCS have?,Easy,"Based on the information provided from the TCS Annual Report excerpts, **TCS has a total of 636,833 employees** as at the end of the financial year.
+
+This total is composed of:
+
+- Permanent employees: 607,979  
+- Other than permanent employees: 28,854  
+- Total employees: 636,833  
+
+This figure represents all categories of employees, as stated in the excerpt.",3.9,True,"Based on the information provided from the TCS Annual Report excerpts, Tata Consultancy Services (TCS) has a highly skilled workforce of **over 607,000 associates** in 55 countries. More specifically, the report states that **607,979 associates** represent 152 nationalities globally.
+
+**Therefore, TCS has 607,979 employees.**",5.1,True,2025-09-27 21:38:08,1,0,"The answer correctly states that TCS has a total of 636,833 employees as at the end of the financial year, explicitly supported by the excerpt: ""total employees ( d + e ) 6, 36, 833"". It also accurately breaks down this figure into permanent (607,979) and other than permanent (28,854) employees, which matches the figures in the provided context.","The answer incorrectly states that TCS has 607,979 employees, matching only the number of permanent employees while ignoring the ""other than permanent"" category (28,854). The provided context clearly lists the total as 636,833 employees, so the answer underreports the actual total workforce as specified in the Annual Report excerpts."
+3,What is TCS's profit for FY 2024?,Easy,"Based **only on the information provided in the excerpts**, the **profit after tax attributable to shareholders of the company for FY 2024** (as per your context) is:
+
+**₹46,585 crore**
+
+This information is stated as:
+> profit after tax attributable to shareholders of the company 48,553 19.0 4.2 46,585 19.3
+
+Where, in the table, the first value (₹48,553 crore) refers to FY 2025, and the second value (₹46,585 crore) refers to FY 2024.",3.1,True,"Based on the provided excerpts from the TCS Annual Report, the **profit for TCS (Tata Consultancy Services) for FY 2024** is not directly stated in the text you've shared.
+
+The excerpts include the following details for FY 2024 (consolidated):
+
+- **Revenue from operations:** ₹2,40,893 crore
+- **Other income:** ₹4,422 crore
+- **Total income:** ₹2,45,315 crore
+
+However, the full expenses data and the actual profit after all expenses (net profit or profit after tax) for FY 2024 are **not fully visible** in the provided context. There is mention of ""total expenses"" but the relevant figures for consolidated FY24 are not present in the excerpt.
+
+**Conclusion:**  
+The context provided does **not contain the exact profit figure for FY 2024** for TCS. More data (specifically the net profit or profit after tax line from the financial statements) would be needed to answer this question accurately.",8.0,True,2025-09-27 21:38:19,0,0,"The answer ""₹46,585 crore"" as profit after tax attributable to shareholders of the company for FY 2024 is not fully supported by the context. The provided excerpts show two slightly different figures for FY 2024 profit: ₹46,585 crore (from a table in one chunk) and ₹45,908 crore (from the paragraph stating 'the profit for the year attributable to shareholders of `45,908 crore in fy 2024'). The latter phrasing most closely matches the specific request (""profit for TCS for FY 2024""), and the actual textual summary clarifies this is the preferred number. Therefore, citing only ₹46,585 crore without acknowledging this difference reduces the answer’s factual reliability for the exact question asked.","The answer claims the profit for FY 2024 is not given in the provided context and that more data would be needed. However, the relevant excerpt directly states: ""the profit for the year attributable to shareholders of `45,908 crore in fy 2024,"" making it available in the provided text. Therefore, the answer is factually incorrect as it overlooks clearly presented information."
+4,In which countries does TCS operate?,Easy,"Based only on the information provided above, TCS operates in the following countries:
+
+1. China
+2. Thailand
+3. Philippines
+4. Japan
+5. South Africa
+6. Qatar
+7. Germany
+8. Austria
+9. Netherlands
+10. Singapore
+11. Malaysia
+12. Australia
+13. Indonesia
+
+These countries are explicitly mentioned in the context provided from the TCS Annual Report.",3.8,True,"Based only on the provided excerpts from the TCS Annual Report, TCS operates in the following countries:
+
+1. China (including Beijing)
+2. Thailand
+3. Philippines
+4. Japan
+5. South Africa
+6. Qatar
+7. Germany (Deutschland)
+8. Italy (Italia)
+9. Netherlands
+10. Sweden (Sverige)
+11. Portugal
+12. Luxembourg
+13. Switzerland
+14. France
+15. Saudi Arabia
+16. United Kingdom (UK)
+17. Bulgaria
+18. Ireland
+19. Austria (Osterreich)
+20. Malaysia
+21. Australia
+22. Indonesia
+
+This list is drawn directly from the company and subsidiary names mentioned in the context. The report also mentions TCS having operations in 55 countries and service delivery centers around the world, but only the countries listed above are specifically named in the provided excerpt.",6.0,True,2025-09-27 21:38:29,0,1,"The original answer lists only 13 countries (China, Thailand, Philippines, Japan, South Africa, Qatar, Germany, Austria, Netherlands, Singapore, Malaysia, Australia, Indonesia). However, the provided context specifically names additional countries in the excerpts, such as Italy, Sweden, Portugal, Luxembourg, Switzerland, France, Saudi Arabia, UK, Bulgaria, and Ireland. Because the original answer fails to include several countries that are clearly mentioned in the provided context, it is incomplete and therefore not fully factually correct or well-supported.","The expansion answer provides a significantly longer list of countries, all of which can be directly linked to the provided context via subsidiary listings or mentions. The answer also correctly states that TCS operates in 54–55 countries based on the report, but conservatively lists only those named explicitly in the excerpts. Although some map and listing context gives a much larger footprint, the answer maintains fidelity to the supplied context and only includes those verified by excerpt evidence, making it factually correct and well-supported."
+5,What is TCS's dividend per share?,Easy,"Based only on the information provided from the TCS Annual Report excerpts, **TCS's dividend per share for FY 2025 is ₹126**. 
+
+This total is made up of:
+- Three interim dividends of ₹10 each (₹30 total)
+- A special dividend of ₹66
+- A recommended final dividend of ₹30 (pending shareholders' approval at the AGM)
+
+**Total dividend per share for FY 2025: ₹10 + ₹10 + ₹10 + ₹66 + ₹30 = ₹126**",3.0,True,"Based only on the information provided in the excerpts from the TCS Annual Report, **TCS's dividend per share for FY 2025 is ₹126**.
+
+This total is comprised of:
+- Three interim dividends of ₹10 each
+- A special dividend of ₹66
+- A recommended final dividend of ₹30 (pending shareholder approval)
+
+**Total dividend per share = ₹10 + ₹10 + ₹10 + ₹66 + ₹30 = ₹126 per share** for FY 2025.",5.2,True,2025-09-27 21:38:37,1,1,"The answer correctly states that TCS's dividend per share for FY 2025 is ₹126, and it provides a breakdown that matches the information found in the supplied excerpts. Multiple sources within the context specify three interim dividends of ₹10 each, a special dividend of ₹66, and a final proposed dividend of ₹30, totaling ₹126 per share for FY 2025. The answer accurately reflects and is fully supported by these excerpts.","The expanded answer also correctly identifies the total dividend per share for FY 2025 as ₹126 and lists the same breakdown (three ₹10 interim dividends, one ₹66 special dividend, one ₹30 final dividend). This information is explicitly confirmed in the provided context, showing the answer is factually correct and well-supported by the evidence from the report."
+6,How has TCS's revenue grown over the past 3 years?,Medium,"Based on the provided excerpts from the TCS Annual Report, here is how TCS’s revenue has grown over the past three years:
+
+- **FY 2025:** TCS achieved a year-over-year revenue growth of **6.0%** (4.2% in constant currency).
+- **FY 2024:** The revenue growth for FY 2024 is not explicitly stated in the provided excerpts.
+- **Past Five Years:** Over the past five financial years, TCS recorded a **compound annual growth rate (CAGR) of 10.2%**.
+- **Segment Example:** For the ""Banking, Financial Services and Insurance"" segment, revenue grew from ₹90,928 crore in FY 2024 to ₹94,597 crore in FY 2025, a growth of 4.0%.
+
+**Conclusion:**  
+TCS has shown consistent revenue growth, with a CAGR of 10.2% over five years and 6.0% revenue growth in FY 2025. However, the explicit year-on-year revenue growth percentage for FY 2024 (relative to FY 2023) is **not provided in the context above**, so the exact annual growth rates for all of the past three years cannot be fully detailed based only on the provided information.",3.6,True,"Based on the information provided from the TCS Annual Report:
+
+**TCS's annual revenue (₹ crore) over the past 3 financial years:**
+- **FY 2023:** ₹225,458 crore
+- **FY 2024:** ₹240,893 crore
+- **FY 2025:** ₹255,324 crore
+
+**Revenue Growth Rates:**
+- **FY 2024 vs FY 2023:**  
+  Revenue grew from ₹225,458 crore to ₹240,893 crore, representing a growth of **6.8%**.
+- **FY 2025 vs FY 2024:**  
+  Revenue grew from ₹240,893 crore to ₹255,324 crore, representing a growth of **6.0%**.
+
+Therefore, **TCS's revenue has grown steadily over the past 3 years**:
+- FY 2023: ₹225,458 crore
+- FY 2024: ₹240,893 crore (**+6.8% YoY**)
+- FY 2025: ₹255,324 crore (**+6.0% YoY**)
+
+The growth rate slightly moderated in the most recent year, but overall, TCS has demonstrated consistent revenue growth.",7.7,True,2025-09-27 21:38:49,0,1,"The original answer correctly identifies the FY 2025 revenue growth (6.0%) and acknowledges the lack of an explicit growth number for FY 2024 in the provided excerpts. However, it omits the actual revenue figures and the precise FY 2024 growth rate (6.8%), which are present in the provided context (""tcs’ revenue grew 6.0% in fy 2025, compared to 6.8% in the previous year""). Thus, the original answer is incomplete and less precise than what the context would support.","The expansion answer provides the exact revenue amounts for all three years (FY 2023, FY 2024, FY 2025) and the corresponding year-on-year growth rates (6.8% for FY 2024 vs FY 2023; 6.0% for FY 2025 vs FY 2024). Both the growth percentages and the revenue numbers are directly supported by the provided context. Therefore, this answer is factually correct, complete, and well-supported by the context."
+7,What are TCS's main business segments and their performance?,Medium,"Based on the provided excerpts from the TCS Annual Report:
+
+**Main Business Segments:**  
+TCS organizes its business primarily by industry verticals, which are its main business segments. The five key vertical clusters are:
+1. **Banking, Financial Services and Insurance (BFSI)**
+2. **Communication, Media and Technology (CMT)**
+3. **Consumer Business**
+4. **Life Sciences and Healthcare**
+5. **Manufacturing**
+6. **Others** (such as Energy, Resources and Utilities, Public Services and Products)
+
+**Segment Performance (FY2025 figures where available):**
+
+- **Banking, Financial Services and Insurance (BFSI)**
+  - Revenue: ₹94,597 crore (37.0% of total revenues)
+  - Year-over-Year (YoY) Revenue Growth: 4.0%
+  - Segment Margin: 26.6%
+
+- **Communication, Media and Technology (CMT)**
+  - Revenue: ₹45,893 crore (18.0% of total revenues)
+  - YoY Revenue Growth: 16.5%
+  - Segment Margin: 20.9%
+
+- **Consumer Business**
+  - Revenue Share: 15.7% (exact revenue and margin figures not provided in the excerpt)
+
+- **Life Sciences and Healthcare**
+  - Revenue Share: 10.4% (exact revenue and margin figures not provided in the excerpt)
+
+- **Manufacturing**
+  - Revenue Share: 9.9% (exact revenue and margin figures not provided in the excerpt)
+
+- **Others**
+  - Revenue Share: 9.0% (exact revenue and margin figures not provided in the excerpt)
+
+**Summary:**  
+- The **BFSI** segment is the largest contributor to revenue (37.0%), with steady growth and strong margins.
+- **CMT** is the second-largest segment by revenue (18.0%) and saw the fastest growth (16.5% YoY).
+- Other segments individually contribute between roughly 9% and 16% of total revenues.
+
+If you need more granular data (such as margins or specific growth rates for segments besides BFSI and CMT), the current excerpt does not provide these details. Otherwise, the major business segments and their relative performance by revenue share, growth, and margins are as summarized above.",6.0,True,"Based only on the provided excerpts from the TCS Annual Report, here is the answer:
+
+**TCS's Main Business Segments (“Industry Verticals”):**
+- **Banking, Financial Services and Insurance (BFSI):** 37.0% of revenue
+- **Communication, Media and Technology:** 18.0% of revenue
+- **Consumer Business:** 15.7% of revenue
+- **Life Sciences and Healthcare:** 10.4% of revenue
+- **Manufacturing:** 9.9% of revenue
+- **Others:** 9.0% of revenue
+
+**Performance of Main Segments (FY2025):**
+- **Banking, Financial Services and Insurance (BFSI):**
+  - Revenue: ₹94,597 crore (FY2025) vs ₹90,928 crore (FY2024)
+  - YoY Revenue Growth: 4.0%
+  - Segment Margin: 26.6% (FY2025) vs 25.9% (FY2024)
+
+- **Communication, Media and Technology:**
+  - Revenue: ₹45,893 crore (FY2025) vs ₹39,391 crore (FY2024)
+  - YoY Revenue Growth: 16.5%
+  - Segment Margin: 20.9% (FY2025) vs 27.7% (FY2024) 
+
+**Summary:**  
+TCS segments its business primarily by industry verticals, with BFSI being the largest contributor by revenue, followed by Communication, Media and Technology, and others. BFSI showed moderate growth (4.0% YoY) with strong margins, while Communication, Media and Technology experienced significant growth (16.5% YoY) but with a decline in segment margin compared to the previous year. Performance for other segments is not detailed in the context provided.",13.9,True,2025-09-27 21:39:09,1,1,"The answer is factually correct and well-supported by the provided context. It correctly identifies TCS’s main business segments as organized by industry vertical, listing BFSI, CMT, Consumer Business, Life Sciences and Healthcare, Manufacturing, and Others (context chunks 1 and 2). The answer provides accurate performance figures for BFSI (₹94,597 crore, 37% of revenue, 4.0% YoY growth, 26.6% margin) and CMT (₹45,893 crore, 18%, 16.5% growth, 20.9% margin), which are matched exactly to the provided data (chunk 2). It further notes that revenue percentages for other segments are given but that detailed margin/growth data is not available for those segments, which is consistent with the context. The summary accurately reflects the performance and segment breakdown as seen in the relevant excerpts.","This answer also correctly identifies the main business segments based on industry verticals, with the correct revenue shares for each as per the given context (chunk 2). It provides detailed performance for both BFSI and CMT, citing both FY2025 and FY2024 revenues, YoY growth, and segment margins as provided in the context. It accurately summarizes the breakdown and notes the lack of detailed performance data for the other segments. All claims are substantiated by the provided excerpts, ensuring accuracy and completeness."
+8,What digital transformation services does TCS offer to clients?,Medium,"Based on the provided excerpts from the TCS Annual Report, **TCS offers the following digital transformation services to its clients**:
+
+1. **Large-scale digital transformation projects:** TCS delivers system integration and transformational programs of national importance, such as projects for BSNL, Passport Seva, and the Election Commission in India.
+
+2. **AI adoption and digital core modernization:** TCS assists enterprises in accelerating the adoption of artificial intelligence into their digital core to address technical debt and modernize legacy systems.
+
+3. **Cloud migration and infrastructure modernization:** TCS supports clients in migrating to the cloud, updating infrastructure frameworks, and developing strong data foundations.
+
+4. **Low-code/no-code solutions:** TCS provides services using low-code and no-code platforms, delivering significant productivity gains for clients.
+
+5. **Data privacy and quality processing:** TCS processes large volumes of data to ensure privacy and quality control.
+
+6. **Cybersecurity consulting:** TCS offers security consulting services to help enterprises strengthen their cybersecurity management processes.
+
+7. **Tailored solutions for growth markets:** TCS develops agile, cost-effective digital solutions customized for first-time digital adopters in rapidly growing markets.
+
+8. **Enhanced user experiences and cutting-edge technologies:** Through partnerships, especially within the Tata group, TCS leverages niche skills and resources to deliver improved user experiences and implement advanced technologies.
+
+**Note:** These points are strictly based on the excerpts provided. If further details are needed on specific offerings or technologies, additional context from the report would be required.",4.8,True,"Based on the provided excerpts from the TCS Annual Report, the digital transformation services that TCS offers to clients include:
+
+1. **Hybrid Multi-Cloud Services:** Investment in training, certifications, and building solutions and intellectual property around hybrid and multi-cloud environments.
+
+2. **AI and GenAI Services:** Investment in generative AI (GenAI) playgrounds to enable AI literacy and deep skilling, and solutions that leverage advanced AI capabilities.
+
+3. **Data Transformation Programs:** Strengthening teams in streaming data, observability, MLOps, and compliance tooling to support large enterprise data transformation initiatives.
+
+4. **Products and Platforms:** Offering flagship digital transformation platforms such as:
+   - **ignio™**
+   - **TCS BaNCS™**
+   - **TCS iON™**  
+   These solutions use AI, cloud, and analytics to enhance agility, efficiency, and customer experience across industries.
+
+5. **Cloud Migration and Modernization:** Supporting enterprises in addressing technical debt, modernizing legacy systems, cloud migration, updating infrastructure frameworks, and building strong data foundations.
+
+6. **Cybersecurity Services:** Providing security consulting services and helping enterprises strengthen their cybersecurity management processes.
+
+7. **Self-Service Analytics:** Delivering customized no-code data platforms to enable easy and accessible analytics for non-technical users across various business functions.
+
+8. **AI-Equipped Data Platforms:** Transforming operations (e.g., airline operations, logistics, and supply chain) with unified data platforms integrated with AI capabilities.
+
+**Summary:**  
+TCS offers end-to-end digital transformation services covering cloud, AI, data transformation, cybersecurity, self-service analytics, and vertical-specific digital platforms to help clients modernize, enhance efficiency, and build future-ready enterprises.",14.2,True,2025-09-27 21:39:28,1,1,"The original answer accurately captures and summarizes the digital transformation services TCS provides, as described in the provided context. It references large-scale transformation projects, AI and digital modernization, cloud migration, low-code/no-code solutions, data privacy and quality, cybersecurity, tailored solutions for growth markets, and enhanced user experiences through advanced technologies. Each of these points is substantiated by the corresponding chunks from the annual report excerpts, making the answer both factually correct and well-supported.","The expanded answer is also accurate and well-supported by the context. It details TCS's offerings around hybrid multi-cloud, AI (including generative AI), data transformation (streaming data, MLOps, etc.), flagship digital transformation platforms (ignio™, TCS BaNCS™, TCS iON™), cloud migration, cybersecurity, self-service analytics, and AI-equipped data platforms. Each service mentioned aligns with the information provided in the excerpts, and the additional detail about TCS investments and platform names adds depth without diverging from the facts in the context."
+9,What are the key risks TCS faces in its business operations?,Medium,"Based on the provided excerpts from the TCS Annual Report, the key risks TCS faces in its business operations include:
+
+1. **Shortage of Skilled Personnel:** Difficulty in attracting and retaining qualified employees.
+2. **International Operations Management:** Challenges in managing business across multiple geographies.
+3. **Reduced Demand for Technology:** Lower demand in TCS’s key technology focus areas.
+4. **Disruptions in Telecommunication Networks:** Potential interruptions affecting service delivery.
+5. **Acquisition Risks:** Challenges in successfully completing and integrating acquisitions.
+6. **Liability on Service Contracts:** Risks of damages arising from contractual obligations.
+7. **Performance of Strategic Investments:** The success of companies in which TCS has invested.
+8. **Withdrawal of Governmental Fiscal Incentives:** Loss of government-provided benefits or incentives.
+9. **Political Instability:** Unstable political environments impacting operations.
+10. **Legal Restrictions:** Barriers to raising capital or acquiring companies outside India.
+11. **Intellectual Property Risks:** Unauthorized use of TCS’s intellectual property.
+12. **Cyber Attacks or Security Breaches:** Threats to the company’s information and systems.
+13. **Pandemics and Natural Disasters:** Disruptions caused by health crises or natural events.
+14. **General Economic Conditions:** Broader economic factors impacting the IT industry.
+
+TCS addresses these risks through a robust risk management framework, regular reviews, scenario planning, and engagement with stakeholders to ensure transparency and resilience.
+
+If you need more detail or focus on a specific risk category, please specify.",4.7,True,"Based on the provided excerpts from the TCS Annual Report, the key risks TCS faces in its business operations include:
+
+1. **Managing Growth:** The company faces challenges in effectively managing its growing operations.
+
+2. **Intense Competition:** There is strong competition among global IT services companies, which can impact TCS’s market position and profitability.
+
+3. **Profitability Factors:** Various factors such as wage increases and an appreciating rupee can affect TCS’s profitability.
+
+4. **Attracting and Retaining Talent:** TCS depends on its ability to attract and retain highly skilled professionals, especially given the short supply of emerging technical skills.
+
+5. **Fixed-Price, Fixed-Time Contracts:** Risks exist related to time and cost overruns in these types of contracts.
+
+6. **Client Concentration:** Relying heavily on a few clients could be a risk if there are changes in their business outlook or spending.
+
+7. **Cross-Border Restrictions:** Immigration or regulatory restrictions on the cross-border movement of staff can impact service delivery.
+
+8. **Geo-Political and Macroeconomic Volatility:** Events such as wars, adverse trade policies, and high inflation in major economies can affect client spending, create demand uncertainty, and increase the company’s costs.
+
+9. **Risks in Service Delivery and Business Continuity:** Geo-political risks can threaten service delivery, business continuity, cybersecurity, sanctions compliance, and human rights, particularly in sensitive zones.
+
+In summary, TCS’s key business risks are related to competition, talent management, client and contract risks, macroeconomic and geopolitical factors, and operational challenges in global service delivery.",22.7,True,2025-09-27 21:39:55,1,1,"The answer thoroughly lists key risks faced by TCS, including shortage of skilled personnel, international operations, reduced technology demand, telecom disruptions, acquisition risks, contract liabilities, performance of investments, loss of fiscal incentives, political instability, legal restrictions, IP risks, cyber attacks, pandemics, natural disasters, and general economic conditions. Each of these risks is explicitly supported by the provided context (especially the second and fourth chunks), and the answer accurately reflects the company’s risk management approach as described. There are no major omissions or unsupported items.","The answer addresses key business risks faced by TCS, such as managing growth, intense competition, factors affecting profitability (e.g., wage increases, currency appreciation), attracting and retaining talent, contract risks, client concentration, cross-border restrictions, and geopolitical/macroeconomic volatility. Each point finds clear support in the provided context (especially in the fourth chunk: “ability to manage growth, intense competition... ability to attract and retain highly skilled professionals... time and cost overruns... client concentration, restrictions on cross-border movement”). The summary is accurate and well-supported by the referenced content."
+10,How does TCS invest in employee development and training?,Medium,"Based only on the information provided above, TCS invests in employee development and training through the following ways:
+
+- **Fostering Lifelong Learning:** TCS promotes passion, lifelong learning, and collaboration among employees, emphasizing the value of continuous skill development and knowledge sharing.
+- **Recognizing and Rewarding Talent:** The company drives a high-performance culture by recognizing and rewarding potential talent, as seen in the over 110,000 promotions in FY 2025.
+- **Inclusive and Equitable Opportunities:** TCS aims to create inclusive, equitable, and sustainable opportunities for all employees, including youth, women, and marginalized communities.
+- **Stimulating Work Environment:** The company empowers employees through a stimulating and rewarding work environment designed to enhance employee experience and drive business growth.
+- **Leadership in Learning and Sharing:** Core values such as learning and sharing are highlighted as binding principles for the global workforce.
+- **Innovation and Collaboration:** TCS’s global innovation network, including 11 Pace Ports and studios, facilitates collaborative learning and engagement on cutting-edge technologies and solutions.
+
+The report mentions a focus on ""talent development,"" ""employee engagement,"" and continuous recognition for HR practices, which further indicates ongoing investment in employee training and development programs.
+
+If you need more detailed information on specific training programs or metrics, the context provided does not include those specifics.",5.5,True,"Based only on the provided excerpts from the TCS Annual Report, here’s how TCS invests in employee development and training:
+
+- **Transformative Learning Initiatives:** In FY 2025, TCS launched several major initiatives to revolutionize employee learning, including embracing AI/GenAI-first methodologies and building competencies in disruptive technologies.
+- **Significant Investment in AI and Experimentation:** Associates were empowered to experiment with AI, driving value for customers.
+- **High Volume of Learning Activities:** On average, each employee received 96.4 learning hours. Over 5.2 million total learning hours were recorded.
+- **Skill Acquisition and Certifications:** Employees acquired over 100,000 external certifications and higher-order skills in AI/ML and GenAI (AI/ML = Artificial Intelligence/Machine Learning, GenAI = Generative AI). More than 100,000 competencies were acquired, with recognition across major platforms such as AWS, Google Cloud, Microsoft, and GitHub.
+- **Career-Linked Learning:** 402,000+ employees pursued learning tied to career development.
+- **Innovative Learning Tools:** TCS developed AI-powered tools including interview coaches, coding tutors, simulators, content creators, and AI communications coaches to improve training effectiveness.
+- **Specialized Programs:** Launched new programs to build expertise in areas like large program management, consulting, sales, and GenAI.
+- **Lifelong Learning Culture:** Employees are encouraged to take charge of their ongoing learning and career growth.
+- **Internal Development:** TCS increased its use of internal talent pools by reskilling and ensuring trainees are ready-to-deploy, as well as offering internal internships and skill grids for critical areas.
+- **Recognition and Rewards:** Employees are recognized and promoted based on their learning and development, with over 110,000 promotions in FY 2025.
+
+**Summary:**  
+TCS invests heavily in employee development through innovative, AI-driven learning initiatives, extensive training hours, industry certifications, career-linked upskilling, and the use of advanced digital coaching tools. They foster a continuous learning culture, support internal mobility via reskilling, and reward talent development through promotions and recognition.",14.5,True,2025-09-27 21:40:15,1,1,"The original answer is factually correct and well-supported by the provided context. It references TCS’s emphasis on lifelong learning, a high-performance culture, inclusivity, recognition/reward systems, and fostering innovation/collaboration—all of which are mentioned in the excerpts. However, it lacks detail on specific programs, metrics, or concrete examples but remains completely accurate per the evidence given.","The expansion answer is also factually correct and is even more strongly supported by the context, drawing from specific details in the excerpts. It accurately mentions innovative learning initiatives (AI/GenAI, new tools like coding tutors/interview coaches), provides quantitative data (average learning hours, certifications), and describes processes like reskilling, internal mobility, specialized upskilling programs, and the link between promotions and learning investment. All these points are explicitly detailed in the provided chunks, making this answer highly precise and fully supported by the evidence."
+11,What strategic initiatives is TCS taking to compete with other IT services companies?,Hard,"Based on the provided excerpts from the TCS Annual Report, **TCS is taking several strategic initiatives to compete with other IT services companies**:
+
+1. **Accelerating AI Adoption and Digital Transformation:**  
+   TCS is helping enterprises accelerate the adoption of AI into their digital core, modernize legacy systems, and address technical debt. This includes cloud migration, updating infrastructure frameworks, and developing a strong data foundation.
+
+2. **Focus on Cybersecurity:**  
+   With enterprises facing increasing cybersecurity threats, TCS is investing in and expanding its security consulting services to help clients strengthen their cybersecurity management processes.
+
+3. **Productivity Gains through Automation (Low-Code/No-Code):**  
+   TCS leverages low-code/no-code development approaches, achieving over 50% productivity gains, and processes large volumes of data for privacy and quality.
+
+4. **Scaling in Growth Markets:**  
+   TCS makes early investments and builds strong board and C-level relationships in fast-growing, digitally evolving markets. Their approach includes delivering agile, cost-effective solutions tailored for first-time digital adopters and engaging in large, transformational projects of national importance (e.g., BSNL, Passport Seva, Election Commission in India).
+
+5. **Deep Domain Expertise and Global Presence:**  
+   With a highly skilled workforce in over 55 countries and 200+ service delivery centers, TCS leverages its scale and domain expertise across multiple industries to act as a digital transformation and technology partner for leading global organizations.
+
+6. **Long-term Client Partnerships:**  
+   TCS emphasizes building long-term, adaptive partnerships with clients, helping them navigate multiple technology cycles and driving sustained innovation and value.
+
+**In summary:**  
+TCS’s strategic initiatives to compete include accelerating digital and AI transformation for clients, expanding cybersecurity services, leveraging automation and productivity tools, investing in growth markets, drawing on deep technical and industry expertise, and fostering enduring client relationships.",10.1,True,"Based on the provided excerpts from the TCS Annual Report, the following strategic initiatives are being taken by TCS to compete with other IT services companies:
+
+1. **Formation of Full-Stack Teams:**  
+   TCS has created full-stack teams across offerings, engineering, sales, solutions, and platform-based operations to support its growth in the cloud space and deliver integrated outcomes for customers.
+
+2. **Strengthening of Advisory Capabilities:**  
+   TCS is “doubling down” on its world-class advisory team within the central cloud unit to help customers address the complexity and cost dynamics of adopting cloud technologies.
+
+3. **Bolstering Cloud Partnerships:**  
+   TCS has established a well-connected, geographically spread alliance team to nurture relationships with major cloud providers (hyperscalers), foster co-engineering, and co-develop go-to-market strategies.
+
+4. **Emphasis on AI and Digital Core Modernization:**  
+   TCS is preparing for the increased adoption of AI by helping enterprises address technical debt and modernize legacy systems through cloud migration and development of strong data foundations.
+
+5. **Expansion of Cybersecurity Services:**  
+   Recognizing increased risks in the enterprise landscape, TCS is focusing on aiding customers with cybersecurity management and strengthening its security consulting services.
+
+6. **Leveraging Group Capabilities and Niche Skills:**  
+   TCS leverages capabilities, skills, and resources from within the Tata group to enhance user experiences and provide cutting-edge technology solutions for clients, including those within the group.
+
+7. **Global Network Delivery Model:**  
+   TCS uses a global delivery model, where its subsidiaries contract with customers in various countries and then outsource service delivery to TCS, ensuring high-quality and consistent delivery across geographies.
+
+**Summary:**  
+TCS is investing in integration across the cloud (including partnerships, advisory, and full-stack teams), modernizing enterprise digital cores with AI and cloud migration, strengthening cybersecurity services, leveraging Tata group synergies, and maintaining a global delivery model to differentiate itself and compete with other IT services firms.",17.9,True,2025-09-27 21:40:43,1,1,"The original answer accurately reflects numerous strategic initiatives described in the TCS Annual Report excerpts. It cites TCS’s focus on AI adoption, digital transformation, cloud migration, cybersecurity services, automation (low-code/no-code), scaling in growth markets, maintaining deep domain expertise, a global workforce, and nurturing long-term client partnerships. These details are all directly supported by the provided context—for example, chunks describing AI and digital core modernization, cloud migration, cybersecurity, growth market strategies, and deep client relationships. Thus, the information is both factually correct and well-supported.","The expansion answer also thoroughly and accurately describes multiple TCS strategic initiatives pulled from the provided context. These include forming full-stack teams, strengthening advisory capabilities (mentioned in the cloud context), building alliances with hyperscalers, emphasizing AI and modernization, expanding cybersecurity, leveraging Tata group synergies and niche skills, and operating a global network delivery model. All of these points are present in the context (e.g., the full-stack/cloud/advisory/alliance details, Tata group leveraging, and delivery model) and correctly attributed, so the answer is factually correct and well-supported by the evidence."
+12,How is TCS addressing sustainability and ESG concerns in its operations?,Hard,"Based on the provided excerpts from the TCS Annual Report, **TCS is addressing sustainability and ESG (Environmental, Social, and Governance) concerns in its operations through several measures:**
+
+1. **Embedding ESG Principles:** TCS states that ESG principles are deeply embedded in its core business values, guiding its commitment to building a resilient and future-ready enterprise.
+
+2. **Community Impact:** The company focuses on impactful initiatives in education, healthcare, and skill development, aiming to give back to the communities it serves.
+
+3. **Transparency and Governance:** TCS maintains its commitment to transparency, ethical conduct, and strong corporate governance.
+
+4. **Material ESG Topics:** The company identifies and discloses material ESG topics that are relevant for its integrated annual report, based on stakeholder engagement, data collection, and analysis.
+
+5. **Water Management:** TCS undertakes water management initiatives such as upgrading water infrastructure, minimizing freshwater consumption, sewage treatment, recycling treated water, and rainwater harvesting.
+
+6. **Supply Chain Sustainability:** TCS emphasizes responsible sourcing, conducts sustainability assessments, and provides training and awareness for stakeholders in its supply chain.
+
+7. **Employee Engagement:** There are year-round environmental awareness initiatives for associates, such as TCS Circle4Life™.
+
+8. **Sustainability Solutions for Customers:** TCS develops and offers products and solutions like TCS Clever Energy™, Envirozone™, and an ESG integration solution to help customers accelerate their own sustainability efforts.
+
+In summary, **TCS addresses sustainability and ESG concerns by embedding these principles into its governance and operations, engaging in community and environmental initiatives, ensuring responsible supply chain practices, promoting employee awareness, and offering technology solutions to support sustainability for its clients.**",4.9,True,"Based only on the provided excerpts from the TCS Annual Report, **TCS is addressing sustainability and ESG (Environmental, Social, and Governance) concerns in its operations in the following ways:**
+
+### Environmental Initiatives
+- **Four Pillars of Environmental Stewardship:** TCS focuses on carbon footprint mitigation, water conservation and recycling, waste reduction and recycling, and preserving biodiversity.
+- **Energy and Emissions Targets:** TCS has set tangible goals,
+    - **Reduce scope 1 and scope 2 greenhouse gas emissions by 90% by FY2030 (from a FY2016 base year).**
+    - **Reduce scope 3 emissions by 35% by FY2034 (from a FY2020 base year).**
+    - **100% recycling of treated water in owned campuses (long-term goal).**
+- **Water Management:** Upgrading water infrastructure to minimize freshwater consumption, implementing sewage treatment, recycling treated water, and harvesting rainwater.
+- **Waste Management & Biodiversity:** Focus on reduction and recycling of waste and initiatives to preserve biodiversity.
+- **Natural Capital Disclosure:** Reporting on natural capital and ESG-related topics.
+- **Associate Engagement:** Programs like TCS Circle4Life™ promote environmental awareness among employees.
+
+### Social Initiatives
+- **Equal Opportunity and Diversity:** Promotes equal opportunity to build a positive workforce; global policies prohibit workplace discrimination and emphasize merit.
+- **Stakeholder Engagement:** Engaging with stakeholders, data collection, and materiality analysis of ESG topics.
+
+### Governance and Value Chain
+- **Supply Chain Sustainability:** Focus on responsible sourcing, sustainability assessments, and training for all supply chain stakeholders.
+- **Risk Management:** Recognizes risks related to technology disruption and emphasizes the need for governance and guardrails.
+
+### Product & Customer Engagement
+- **Technology Solutions for Sustainability:** TCS provides sustainability-focused products and services, such as TCS Clever Energy™, Envirozone™, and ESG integration solutions to help customers on their sustainability journeys.
+
+---
+
+**In summary:** TCS addresses sustainability and ESG through ambitious environmental targets (emissions and water), responsible social and governance practices (non-discrimination, supply chain standards), stakeholder engagement, and business solutions that promote sustainability both internally and for its clients.",18.6,True,2025-09-27 21:41:06,1,1,"The original answer accurately describes how TCS addresses sustainability and ESG concerns as evidenced by the provided excerpts. It cites embedding ESG principles into business values, community impact initiatives, transparency, material ESG topic identification via stakeholder engagement, water management, supply chain sustainability, employee engagement through initiatives like TCS Circle4Life™, and customer solutions like TCS Clever Energy™. All these points are supported by the context, including direct statements from TCS’s CEO, sustainability disclosures, environmental and supply chain management practices, and employee and stakeholder engagement strategies.","The expanded answer is factually accurate and well-supported by the context. It provides even more detail, specifically referencing TCS’s four pillars of environmental stewardship, explicit emissions and water targets, waste management, biodiversity, natural capital disclosure, stakeholder engagement, supply chain sustainability, and sustainable sourcing policies. It also accurately notes technology solutions aimed at helping customers with sustainability goals. These elements are corroborated by the context, such as information on emissions reductions, water recycling, responsible sourcing, associate engagement, and supplier sustainability platforms. The expansion also integrates unique details (specific emissions goals, biodiversity, certifications, and policy integrations) found directly in the provided excerpts."
+13,What role does artificial intelligence and automation play in TCS's service delivery?,Hard,"Based only on the information provided in the excerpts from the TCS Annual Report, artificial intelligence and automation play several key roles in TCS's service delivery:
+
+1. **AI-Driven Data Platforms**: TCS delivers highly customized, no-code data platforms equipped with AI that make information easily accessible and usable even for non-technical business users across various functions like marketing, customer loyalty, operations, and engineering. This enables faster, self-service analytics and decision-making.
+
+2. **Transformation of Operations**: For example, TCS helped transform airline operations with a unified AI-equipped data platform, enabling users to ""talk-to-data"" in natural language and derive insights quickly, leading to significantly faster decision-making.
+
+3. **Redefinition of Knowledge and Physical Work**: TCS is investing extensively in AI for knowledge work (such as software engineering, marketing, and drug discovery) and physical work (developing intelligent robots for logistics and warehouse management). AI enables smarter orchestration between robots and human workers.
+
+4. **Industry and Function-Specific Solutions**: TCS expects AI solutions, including data, models, and intelligent agents, to become increasingly tailored to specific industries or business functions. They are investing in ""AI-first"" software development, maintenance, and operations to support this trend.
+
+5. **Operational Efficiency and New Revenue Streams**: AI and automation are helping clients, such as logistics providers, make smarter, safer decisions preemptively, create new revenue streams, and generate significant cost savings (e.g., a potential annual saving of $500 million in logistics).
+
+In summary, **artificial intelligence and automation enable TCS to enhance service delivery by streamlining decision-making, enabling self-service analytics, automating both knowledge and physical work, tailoring solutions to specific industries/functions, and driving operational efficiency and innovation for their clients**.",7.8,True,"Based on the provided excerpts from the TCS Annual Report, **artificial intelligence (AI) and automation play a central and transformative role in TCS's service delivery**:
+
+1. **Autonomous Operations & AI-Infused Processes:**  
+   - TCS is moving towards autonomous operations in IT and business services.
+   - AI is being systematically infused across TCS’s offerings, leading to ‘AI-assisted enterprise functions’ and ‘autonomous agents’ embedded in enterprise systems.
+
+2. **AI-Led Modernization:**  
+   - Software development at TCS is being redefined by AI, especially through AI-led modernization efforts: rapidly transforming legacy code and modernizing application estates with GenAI (generative AI) and TCS's proprietary tools.
+
+3. **Enhanced Products and Platforms:**  
+   - Flagship solutions like ignio™, TCS BaNCS™, and TCS Ion™ leverage AI, cloud, and analytics to improve agility, efficiency, and customer experience for clients, making service delivery more scalable, secure, and future-ready.
+
+4. **Automation in Value Chains:**  
+   - TCS is cataloguing use cases and deploying autonomous agents—powered by data and AI models—to reimagine and automate client value chains.
+
+5. **AI-Driven Advisory and Co-Innovation:**  
+   - TCS provides strategic AI advisory and is deeply involved in co-innovation with technology partners to deliver AI-based solutions and help clients realize value across the enterprise.
+
+6. **Employee Enablement for AI Delivery:**  
+   - TCS is investing in employee training, certifications, and hands-on AI environments (GenAI playgrounds) to build AI skills, supporting the delivery of AI-driven services.
+
+In summary: **AI and automation are integral to virtually every aspect of TCS’s service delivery, from product platforms to business process operations, application modernization, value chain transformation, and strategic advisory. These technologies are used to drive efficiency, scalability, agility, and innovation for TCS’s clients.**",13.0,True,2025-09-27 21:41:27,1,1,"The original answer accurately reflects the roles of artificial intelligence and automation in TCS’s service delivery using multiple points strongly supported by the provided excerpts. It discusses AI-driven data platforms, operational transformation (e.g., in airlines and logistics), the redefinition of knowledge and physical work (with mention of robots and AI in logistics/warehousing), the industry/function-specific tailoring of AI solutions, and AI’s impact on efficiency and new revenue streams. All these aspects are explicitly detailed in the context, showing clear alignment with the actual content from the annual report excerpts.","The expansion answer is also factually correct and well-supported by the context. It covers autonomous operations and AI-infused processes, AI-led modernization (including generative AI and application modernization), enhanced products/platforms leveraging AI, automation in value chains, AI-driven advisory and co-innovation, and employee enablement for AI delivery. Each point maps clearly to specific phrases and descriptions within the provided excerpts, for example: references to autonomous operations, agentic AI, “systematically infused AI,” AI-led modernization, product names (ignio™, TCS BaNCS™, etc.), and employee upskilling initiatives. The answer is comprehensive and consistent with the source material."
+14,How has TCS's client mix and geographic revenue distribution changed recently?,Hard,"Based **only on the information provided** in the excerpts from the TCS Annual Report, here is what can be discerned about TCS’s client mix and geographic revenue distribution:
+
+---
+
+### Client Mix
+
+- **Types of Clients:** TCS primarily works with ""leading corporations across the world,"" specifically mentioning Fortune 1000 and Global 2000 corporations, as well as public sector clients.  
+- **In India:** TCS provides services to departments of the Government of India, various state governments, systemically important entities, and private sector clients.
+- **Industry Verticals:** TCS focuses on five primary vertical clusters:  
+  1. Banking, Financial Services and Insurance (BFSI)
+  2. Communication, Media and Technology (CMT)
+  3. Consumer Business
+  4. Life Sciences and Healthcare
+  5. Manufacturing and Others (including energy, resources and utilities, public services, and products)
+
+**However, the excerpts do not specify how the client mix has *changed recently*; they only provide a snapshot of the current client mix.**
+
+---
+
+### Geographic Revenue Distribution
+
+- **Global Presence:** TCS has offices in 54 international countries and operates in all states and union territories in India.
+- **Exports:** Exports account for **91.4% of TCS’s total turnover**.
+- **Geographies Served:** North America, Latin America, United Kingdom, Continental Europe, Asia Pacific, India, Middle East, and Africa.
+- **Delivery Model:** TCS uses a highly distributed, location-independent agile™ delivery model.
+
+**However, the excerpts do not state how the geographic revenue distribution has *changed recently*; only the current distribution data is provided.**
+
+---
+
+### **Summary**
+
+**The excerpts do not contain explicit information about how TCS’s client mix and geographic revenue distribution have changed recently.** They describe the current state (client types, industry verticals, export percentage, and global footprint) but **do not detail trends, changes, or comparisons to previous years**.
+
+**If you need insight into recent changes, the provided context is not sufficient.** Additional sections of the report, such as management discussions or financial reviews, would be required for a full answer.",13.7,True,"**Based on the excerpts you provided from the TCS Annual Report:**
+
+### Client Mix (by Industry Vertical)
+- The largest industry vertical remains **Banking, Financial Services and Insurance (BFSI)**, contributing **37.0%** of revenue.
+- Other significant sectors are:
+  - **Communication, Media and Technology**: 18.0%
+  - **Consumer Business**: 15.7%
+  - **Life Sciences and Healthcare**: 10.4%
+  - **Manufacturing**: 9.9%
+  - **Others**: 9.0%
+
+Recent growth rates (YoY) in each segment:
+- BFSI: Revenue up **4.0%** (₹94,597 crore in FY25 vs. ₹90,928 crore in FY24)
+- Communication, Media & Tech: Revenue up **16.5%**
+- Consumer Business: Up **2.1%**
+- Life Sciences & Healthcare: **Decreased by 1.1%**
+- Manufacturing: Up **7.1%**
+- Others: Up **9.7%**
+
+**Notable change:**  
+There is strong growth in Communication, Media & Technology and Manufacturing. Life Sciences & Healthcare has seen a slight decline.
+
+---
+
+### Geographic Revenue Distribution
+- **North America**: **48.2%** (remains the biggest market)
+- **United Kingdom**: 16.8%
+- **Continental Europe**: 14.3%
+- **India**: 8.6%
+- **Asia Pacific**: 8.0%
+- **Middle East & Africa**: 2.2%
+- **Latin America**: 1.9%
+
+**Notable change:**  
+The report does **not provide comparative figures from FY24** for geographic revenue, so it is **not possible to specify the direction or degree of change in geographic distribution from the data provided**.
+
+---
+
+## Summary Table
+
+| Vertical/Region                  | Share FY25 (%) | Notable Change                        |
+|----------------------------------|----------------|---------------------------------------|
+| BFSI                             | 37.0%          | Steady growth (+4.0% YoY)             |
+| Comm, Media & Tech               | 18.0%          | Strong growth (+16.5% YoY)            |
+| Consumer Business                | 15.7%          | Modest growth (+2.1% YoY)             |
+| Life Sciences & Healthcare       | 10.4%          | Slight decline (-1.1% YoY)            |
+| Manufacturing                    | 9.9%           | Good growth (+7.1% YoY)               |
+| Others                           | 9.0%           | Growth (+9.7% YoY)                    |
+| North America                    | 48.2%          | No prior-year data to compare         |
+| United Kingdom                   | 16.8%          | No prior-year data to compare         |
+| Continental Europe               | 14.3%          | No prior-year data to compare         |
+| India                            | 8.6%           | No prior-year data to compare         |
+| Asia Pacific                     | 8.0%           | No prior-year data to compare         |
+| Middle East & Africa             | 2.2%           | No prior-year data to compare         |
+| Latin America                    | 1.9%           | No prior-year data to compare         |
+
+---
+
+## **Conclusion**
+- **Client (Industry Vertical) Mix:** There is notable revenue growth in Communication, Media & Technology; Manufacturing; and Others, with a decline in Life Sciences & Healthcare. BFSI is still dominant.
+- **Geographic Distribution:** North America remains the top source of revenue, followed by the UK and Europe; however, **without previous-year geographic data**, the change in distribution cannot be determined.
+
+**If you need a direct year-over-year comparison on geographic mix, the current context does not provide sufficient information.**",17.7,True,2025-09-27 21:41:59,1,1,"The original answer accurately states that the excerpts only provide a current snapshot of TCS’s client mix and geographic revenue distribution, without indicating recent changes or trends. The rationale is fully supported by the provided context, which lists client types, industry verticals, export percentages, and countries of operation, but does not include year-over-year or comparative trend data for client mix or geographies. The answer correctly identifies the limits of the data in the excerpts.","The expansion answer utilizes more detailed data from the provided context, accurately quoting revenue shares for industry verticals and geographies for FY25. It also correctly references year-over-year (YoY) changes in revenue by industry vertical where such comparative data (FY25 vs. FY24) is available, and openly states that no prior-year data is available for geography breakouts, so change cannot be determined there. The answer sticks closely to what is explicitly present or absent in the provided chunks, making it factually correct and well-supported."
+15,What are TCS's long-term growth prospects and investment priorities?,Hard,"Based on the provided excerpts from the TCS Annual Report, here is a summary addressing TCS’s long-term growth prospects and investment priorities:
+
+**Long-term Growth Prospects:**
+- **Industry Trends:** TCS sees significant opportunities as AI, data, cloud, and digital technologies continue to transform industries. The company states it is ""well prepared to help its clients to perpetually adapt and thrive in an ever-changing world,"" emphasizing innovation, adaptation, and industry transformation.
+- **Sectoral Growth:** The report highlights specific growth in various verticals—manufacturing (up 7.1%), ""others"" (up 9.7%), with comparatively stable revenues in life sciences, healthcare, and consumer business. This suggests diversified revenue streams and opportunities across sectors.
+- **Recognition and Capabilities:** TCS has been consistently recognized as a leader in key emerging technology areas by analysts, especially in ai, generative ai, analytics, data, and automation—aligning its capabilities with future digital demand.
+- **Client Relationships:** The customer revenue chart (growth of $100mn+, $50mn+, $20mn+ clients) indicates a strengthening client base, suggesting increasing trust and deeper engagements.
+
+**Investment Priorities:**
+- **Balanced Investment Strategy:** TCS follows a strategy of balancing long-term and short-term instruments to seize market opportunities and achieve higher yields, with a focus on optimizing working capital for efficiency and improved returns.
+- **Allocation of Funds:** For FY 2025, total invested funds (₹47,222 crore) are spread across:
+  - Mutual funds, government securities, and other instruments (₹30,956 crore)
+  - Deposits with banks (₹12,831 crore)
+  - Cash and bank balances (₹3,435 crore)
+  - No inter-corporate deposits in FY 2025
+- **Innovation Network:** The firm maintains a global innovation network, with 11 Pace Ports and studios for collaboration and co-creation with customers—prioritizing R&D, design thinking, and agile building.
+
+**Summary Statement:**
+TCS’s long-term growth prospects are strong, anchored in digital transformation, AI, and industry-specific solutions. Its investment priorities focus on a balanced portfolio (short-/long-term instruments) to maximize yield and efficiency, along with ongoing investments in innovation and global collaboration networks.
+
+**If you require more quantitative details or forward-looking financial forecasts, these are not included in the provided excerpts.**",6.8,True,"**Based on the provided excerpts from the TCS Annual Report:**
+
+### Long-Term Growth Prospects
+
+TCS's long-term growth prospects are strong and are built on several factors:
+- **Global Presence & Deep Client Relationships**: With a workforce of over 607,000 associates in 55 countries, and more than 200 service delivery centres, TCS has established deep and enduring partnerships with industry-leading organizations worldwide.
+- **Adaptability & Innovation**: The company has a track record of navigating technology shifts and helping clients become ""perpetually adaptive enterprises,"" indicating readiness for future changes in digital transformation.
+- **Growth Markets**: TCS is focusing on growth markets characterized by fast technology adoption, evolving regulatory environments, and digital economies. Their early investments and relationships with key industry leaders positioned them well to capture further growth.
+- **Resiliency**: Its localized presence, diversification, and strong client connections enable TCS to navigate macroeconomic and geopolitical uncertainties, ensuring continued value delivery and risk mitigation.
+
+### Investment Priorities
+
+TCS’s investment priorities are aligned with its strategic pillars:
+- **Expanding Service Portfolio**: Continuing to add new-generation digital services (such as low-code/no-code development, automation, data privacy/quality initiatives, etc.)
+- **Innovation & Co-Innovation**: Investing in innovation hubs and research partnerships, like the TCS GoZero Hub, to stay ahead in technology and co-create solutions with clients.
+- **Growth Sectors**: Targeting investments in areas such as energy transition, smart cities, and public services, which present new opportunities in both developed and emerging markets.
+- **Local Capabilities**: Strengthening localized operations to better serve the specific needs of growth markets, particularly for first-time digital adopters.
+- **Client Relationship Deepening**: Focusing on building strategic board and C-level relationships to anticipate industry shifts and support large-scale digital transformation projects.
+
+**Summary:**  
+TCS’s long-term prospects are rooted in adaptability, global reach, and a diversified, innovation-driven strategy. Its investment priorities emphasize next-generation digital services, innovation hubs, growth market localization, targeted sectoral investments (energy, smart cities, public services), and deepening of client relationships to drive sustained value.",16.6,True,2025-09-27 21:42:22,1,1,"The original answer accurately summarizes TCS’s long-term growth prospects and investment priorities, drawing directly from the provided report excerpts. It references sectoral growth, technology trends (AI, cloud, etc.), diversified revenue streams, recognition in emerging tech, client deepening, and details about allocation of funds, which are all reflected in the context. The mention of a balanced investment approach, innovation investments, and global collaboration networks is also consistent with the supplied text, including specific figures on fund allocation and innovation infrastructure (11 Pace Ports). The summary’s limitations (not including forward-looking financials) are also justified given the provided data.","The expansion answer is also factually correct and well-supported. It further elaborates on TCS’s long-term growth prospects by mentioning their global presence, client relationships, adaptability, focus on growth markets, and resiliency, all of which find support in the context (e.g., “deep and enduring partnerships,” “perpetually adaptive enterprises,” “scaling presence in growth markets,” and resilience to macroeconomic uncertainties). Its description of investment priorities—including service expansion, innovation hubs, sector targeting (energy, smart cities, public services), localization, and board-level client engagement—is all supported by references to innovation, emerging tech focus, market diversification, and strategic engagement. The answer stays within the information boundaries of the excerpts and accurately reflects the content."
