@@ -35,3 +35,6 @@ Thumbs.db
 # Course materials (not to be committed)
 L1-student.md
 L3-student.md
+
+# Claude Code settings
+.claude/
