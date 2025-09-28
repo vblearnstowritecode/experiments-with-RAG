@@ -1,0 +1,596 @@
+Question_ID,Question_Number,Difficulty,Question,Expected_Answer,Method,Answer,Time_seconds,Score,Judge_Rationale
+1,1,Easy,What was TCS's total revenue in FY 2025?,"US $30 billion or ₹255,324 crore",Basic RAG,"Based on the information provided from the TCS Annual Report excerpts, **TCS's total revenue in FY 2025 was ₹2,55,324 crore**.
+
+This is stated directly in several parts of your context, for example:
+
+- “the company reported an annual revenue of ₹255,324 crore in fy 2025, growing 6.0 % year - on - year ( 4.2 % in constant currency )...”
+- “on a consolidated basis, the revenue from operations for fy 2025 was ` 2,55,324 crore, higher by 6.0 % over the previous year ’ s revenue from operations of ` 2,40,893 crore.”
+
+**Final answer:**  
+**₹2,55,324 crore** (Rupees two lakh fifty-five thousand three hundred twenty-four crore) was TCS's total revenue in FY 2025.",3.02,1,"The actual answer correctly states TCS's total revenue for FY 2025 as ₹2,55,324 crore, directly matching the expected answer and citing supporting evidence from the report excerpts. It is factually correct and fully addresses the question."
+1,1,Easy,What was TCS's total revenue in FY 2025?,"US $30 billion or ₹255,324 crore",Query Expansion,"Based on the information provided from the TCS Annual Report excerpts, **TCS's total revenue in FY 2025 was ₹255,324 crore**. 
+
+This is confirmed by multiple excerpts, including:
+
+> ""in a very challenging geopolitical and macro - economic environment, the company reported an annual revenue of ₹255,324 crore in fy 2025, growing 6.0% year - on - year...""
+
+And
+
+> ""revenue from operations 255,324 100.0 6.0 240,893 100.0""
+
+Therefore, **TCS's total revenue in FY 2025 was ₹255,324 crore**.",4.97,1,"The actual answer correctly identifies TCS's total revenue in FY 2025 as ₹255,324 crore, directly matching the expected answer and providing supporting excerpts from the annual report. The answer is factually correct and aligns with the expected response."
+1,1,Easy,What was TCS's total revenue in FY 2025?,"US $30 billion or ₹255,324 crore",Multiple Queries,"Based on the information provided from the TCS Annual Report excerpts:
+
+**TCS's total revenue in FY 2025 was ₹255,324 crore.**
+
+This is supported by multiple references in the provided text:
+
+> ...the company reported an annual revenue of ₹255,324 crore in fy 2025, growing 6.0 % year - on - year...
+
+and
+
+> on a consolidated basis, the revenue from operations for fy 2025 was ` 2,55,324 crore, higher by 6.0 % over the previous year’s revenue from operations of ` 2,40,893 crore.
+
+Therefore, the clear and accurate answer is:
+
+---
+
+**TCS’s total revenue in FY 2025 was ₹255,324 crore.**",5.63,1,"The actual answer correctly states TCS’s total revenue in FY 2025 as ₹255,324 crore, which matches the expected answer and is supported by direct references from the TCS Annual Report. The answer is factually accurate and fully addresses the question."
+2,2,Easy,How many associates does TCS have globally?,"607,979 associates",Basic RAG,"Based on the information provided from the TCS Annual Report excerpts, **TCS has 607,979 associates globally**, representing 152 nationalities.
+
+This figure is supported by multiple mentions:
+- ""the core values ... strongly bind and unify the 607,979 associates representing 152 nationalities globally.""
+- Under human capital: ""607,979"" employees/nationalities.
+
+**Therefore, TCS has 607,979 associates globally.**",1.85,1,"The actual answer matches the expected answer exactly, providing the correct number of TCS associates globally (607,979), and supports it with direct citations from the TCS Annual Report. The answer is factually correct and fully addresses the question."
+2,2,Easy,How many associates does TCS have globally?,"607,979 associates",Query Expansion,"Based only on the information provided in the excerpts from the TCS Annual Report:
+
+Tata Consultancy Services (TCS) has **607,979 associates** globally.",4.59,1,"The actual answer correctly states that Tata Consultancy Services (TCS) has 607,979 associates globally, which matches the expected answer and addresses the question directly."
+2,2,Easy,How many associates does TCS have globally?,"607,979 associates",Multiple Queries,"Based on the information provided in the excerpts from the TCS Annual Report, **TCS has 607,979 associates globally**.
+
+This number is explicitly stated multiple times in the context:  
+> ""the core values of leading change, integrity, respect for individual, excellence and learning & sharing strongly bind and unify the 607,979 associates representing 152 nationalities globally.""
+
+> ""with a highly skilled workforce of over 607,000 associates in 55 countries...""
+
+Therefore, the clear and accurate answer is:
+
+**TCS has 607,979 associates globally.**",6.41,1,"The answer is factually correct, explicitly states the number of associates as 607,979, and aligns perfectly with the expected answer. The supporting evidence from the TCS Annual Report is clearly cited."
+3,3,Easy,What was the total dividend per share for FY 2025?,₹126 per share,Basic RAG,"**Answer:**
+
+Based on the information provided from the TCS Annual Report excerpts, the total dividend per share for FY 2025 was **₹126 per equity share**. 
+
+This total includes:
+- Three interim dividends of ₹10 each (₹30)
+- A special dividend of ₹66
+- A recommended final dividend of ₹30
+
+**Breakdown:**
+- 3 interim dividends × ₹10 = ₹30
+- Special dividend = ₹66
+- Final dividend = ₹30   
+**Total: ₹30 + ₹66 + ₹30 = ₹126 per equity share**
+
+This matches the explicit statement in the context:  
+“...the dividends for fy 2025 would amount to ` 126 per equity share, which includes payment of three interim dividends of ` 10 each, a special dividend of ` 66 per equity share, and recommended a final dividend of ` 30 per equity share.”",3.33,1,"The answer is factually correct, provides an accurate breakdown of the dividend components, matches the expected answer of ₹126 per share, and cites the supporting statement from the TCS Annual Report excerpts."
+3,3,Easy,What was the total dividend per share for FY 2025?,₹126 per share,Query Expansion,"Based on the excerpts provided from the TCS Annual Report, the total dividend per share for FY 2025 is **₹126 per equity share**.
+
+**Breakdown:**
+- Three interim dividends of ₹10 each (total: ₹30)
+- One special dividend of ₹66
+- Final dividend of ₹30
+
+**Calculation:**  
+₹10 + ₹10 + ₹10 (interims) = ₹30  
+₹66 (special)  
+₹30 (final)  
+**Total: ₹30 + ₹66 + ₹30 = ₹126 per equity share**
+
+**Source from context:**
+> ""...the dividends for fy 2025 would amount to ` 126 per equity share, which includes payment of three interim dividends of ` 10 each, a special dividend of ` 66 per equity share, and recommended a final dividend of ` 30 per equity share...""",6.3,1,"The actual answer is factually correct, aligns with the expected answer, provides a clear breakdown, and cites the source from the context accurately."
+3,3,Easy,What was the total dividend per share for FY 2025?,₹126 per share,Multiple Queries,"**Answer:**
+
+Based on the information provided above, the **total dividend per share for FY 2025** for TCS was **₹126 per equity share**.
+
+**Breakdown from the context:**
+- Three interim dividends of **₹10** each = ₹30
+- A special dividend of **₹66**
+- A final dividend (recommended) of **₹30** (pending shareholders’ approval)
+
+Total = ₹30 (interims) + ₹66 (special) + ₹30 (final) = **₹126 per share**
+
+This is explicitly stated in the excerpt:  
+> ""... board of directors have declared three interim dividends of ₹10 each, a special dividend of ₹66, and recommended a final dividend of ₹30 (pending shareholders' approval at this agm), for a total dividend of ₹126 per share for fy 2025.""",9.65,1,"The actual answer is factually correct, aligns with the expected answer of ₹126 per share, provides a clear breakdown of the dividend components for FY 2025, and quotes supporting evidence from the source."
+4,4,Medium,What are TCS's main business segments or industry verticals?,"Banking Financial Services, Manufacturing, Communications Media, Life Sciences Healthcare Energy, etc.",Basic RAG,"Based on the information provided from the TCS Annual Report excerpts, **TCS's main business segments or industry verticals** are as follows:
+
+1. **Banking, Financial Services, and Insurance (BFSI)**
+2. **Communication, Media, and Technology (CMT)**
+3. **Consumer Business**
+4. **Life Sciences and Healthcare**
+5. **Manufacturing**
+6. **Others**, which includes:
+   - Energy
+   - Resources and Utilities
+   - Public Services (s-governance)
+   - Products
+
+These verticals are considered TCS's primary go-to-market business segments as referenced in the report.",3.11,1,"The actual answer accurately lists TCS's main business segments/industry verticals, closely matching the expected answer. It includes BFSI, Communications/Media, Life Sciences/Healthcare, Manufacturing, Energy, and other relevant segments as per the TCS Annual Report. The response is factually correct and answers the question appropriately."
+4,4,Medium,What are TCS's main business segments or industry verticals?,"Banking Financial Services, Manufacturing, Communications Media, Life Sciences Healthcare Energy, etc.",Query Expansion,"Based on the information provided in the excerpts from the TCS Annual Report, TCS's main business segments or industry verticals are:
+
+1. **Banking, Financial Services and Insurance (BFSI)**
+2. **Communication, Media and Technology (CMT)**
+3. **Consumer Business**
+4. **Life Sciences and Healthcare**
+5. **Manufacturing**
+6. **Others** (which includes: Energy, Resources and Utilities, Public Services, and Products)
+
+These verticals are identified as TCS's primary go-to-market business segments.",10.14,1,"The actual answer accurately lists TCS’s main business segments, including BFSI, CMT, Life Sciences and Healthcare, Manufacturing, Consumer Business, and ""Others"" (which covers Energy, Resources, Utilities, etc.), aligning well with the expected answer and reflecting the structure used in TCS's Annual Report."
+4,4,Medium,What are TCS's main business segments or industry verticals?,"Banking Financial Services, Manufacturing, Communications Media, Life Sciences Healthcare Energy, etc.",Multiple Queries,"Based on the provided excerpts from the TCS Annual Report, TCS’s main business segments or industry verticals are:
+
+1. **Banking, Financial Services and Insurance (BFSI)**
+2. **Communication, Media and Technology (CMT)**
+3. **Consumer Business**
+4. **Life Sciences and Healthcare**
+5. **Manufacturing**
+6. **Others** (which includes Energy, Resources and Utilities, Public Services, Governance, and Products)
+
+These industry verticals are considered TCS’s primary go-to-market business segments and are regularly used for resource allocation and performance assessment.",6.31,1,"The actual answer accurately lists TCS's main business segments—Banking, Financial Services and Insurance (BFSI); Communication, Media and Technology (CMT); Consumer Business; Life Sciences and Healthcare; Manufacturing; and Others (covering Energy, Utilities, Public Services, etc.). These align with the expected answer and reflect the typical segmentation reported by TCS in their annual report."
+5,5,Medium,What was TCS's operating margin in FY 2025 and how does it compare to the previous year?,"24.3% in FY 2025, slight decline from FY 2024",Basic RAG,"**TCS's operating margin in FY 2025 was 24.3%.**
+
+This represents a marginal decline of 0.3 percentage points (30 basis points) compared to the operating margin of **24.6% in FY 2024**. The decrease was primarily attributed to cost pressures from annual wage hikes, associate promotions, and investments in infrastructure and capability development, partly offset by improvements in workforce utilization, productivity, and realization.",2.22,1,"The answer correctly identifies the operating margin for FY 2025 as 24.3% and compares it to the previous year's 24.6%, stating the decline and providing specific details about the percentage point decrease and reasons, which aligns with and elaborates on the expected answer."
+5,5,Medium,What was TCS's operating margin in FY 2025 and how does it compare to the previous year?,"24.3% in FY 2025, slight decline from FY 2024",Query Expansion,"**Answer:**
+
+TCS's operating margin in FY 2025 was **24.3%**, which represents a marginal decline of **30 basis points** compared to the previous year (FY 2024), when the operating margin was **24.6%**.",3.53,1,"The answer correctly states TCS's operating margin for FY 2025 (24.3%), notes it is a decline from FY 2024, and specifies the margin was 24.6% in FY 2024, consistent with the expected answer."
+5,5,Medium,What was TCS's operating margin in FY 2025 and how does it compare to the previous year?,"24.3% in FY 2025, slight decline from FY 2024",Multiple Queries,"Based on the information provided:
+
+- **TCS’s operating (EBIT) margin in FY 2025 was 24.3%.**
+- In the previous year (FY 2024), the operating margin was **24.6%**.
+- This represents a **decline of 30 basis points** (0.3 percentage points) year-over-year.
+
+**Summary:**  
+TCS's operating margin in FY 2025 was 24.3%, which is 0.3 percentage points lower than the 24.6% margin in FY 2024.",10.04,1,"The actual answer correctly states TCS's operating margin for FY 2025, provides the previous year's margin, and quantifies the decline. This information is accurate and aligns with the expected answer."
+6,6,Medium,What are the key AI/GenAI initiatives mentioned in the report?,"TCS WisdomNext platform, AI agents, drug discovery solutions, etc.",Basic RAG,"Based only on the excerpts provided from the TCS Annual Report, the key AI/GenAI initiatives mentioned are:
+
+1. **AI-powered Clever Energy Platform**: TCS has developed this platform to help clients optimize energy consumption, reduce emissions, and lower energy costs.
+
+2. **Launch of TCS WisdomNext™**: This is described as an enterprise-grade GenAI platform.
+
+3. **Building the Largest AI-trained Workforce**: TCS aims to have the largest AI-trained workforce in the industry by 2025.
+
+4. **Four-pronged AI Strategy**:
+   - Establishing a large pool of AI agents to work alongside the human workforce.
+   - Delivering solutions using a human + AI model.
+   - Investing in AI data centers and cloud infrastructure.
+   - Creating industry-best partnerships with hardware providers, solution innovators, and startups.
+
+5. **GenAI Office for Enterprise-wide Adoption**: TCS is partnering with clients (such as banks) to set up GenAI offices that enable scalable, safe, and cost-efficient GenAI development and democratize AI within organizations.
+
+6. **AI-led Modernization**: Modernizing 50 million lines of legacy code into a modern, AI-powered architecture.
+
+7. **Systematic AI Infusion and Intelligent Agents**: TCS is embedding AI and agentic intelligence across its offerings and enterprise systems, aiming for autonomous enterprise functions and redefining software development with AI-led modernization.
+
+These initiatives reflect TCS’s broad and integrated approach to infusing AI/GenAI throughout its operations, offerings, and client solutions.",4.13,1,"The answer is factually correct, detailed, and aligns with the expected answer. It mentions the TCS WisdomNext platform, AI-powered initiatives (like Clever Energy), AI agents, efforts in enterprise AI adoption (GenAI office), and AI-led modernization, which matches or expands upon the expected examples. All items are supported by the expected content of the TCS Annual Report regarding key AI/GenAI initiatives."
+6,6,Medium,What are the key AI/GenAI initiatives mentioned in the report?,"TCS WisdomNext platform, AI agents, drug discovery solutions, etc.",Query Expansion,"Based on the provided excerpts from the TCS Annual Report, the key AI/GenAI initiatives mentioned are:
+
+1. **Establishing GenAI Offices for Clients:**
+   - TCS is partnering with clients (such as a large UK bank) to establish GenAI offices to drive enterprise-wide AI adoption. This includes assessing business and technology stacks, defining architecture and roadmaps for GenAI implementation, and providing self-serve environments with frameworks and guardrails for scalable, safe, and cost-efficient development.
+
+2. **Clever Energy Platform:**
+   - TCS has developed an AI-powered energy platform that helps clients optimize energy consumption, reduce emissions, and lower energy costs.
+
+3. **AI Centers of Excellence:**
+   - TCS is supporting clients by establishing AI Centers of Excellence to develop scalable enterprise AI strategies.
+
+4. **AI Labs for Experimentation:**
+   - The creation of AI labs for technology experimentation with clients to encourage innovation.
+
+5. **GenAI as a Service Platforms:**
+   - Building safe, secure, and scalable GenAI as a service platforms.
+
+6. **Domain-Specific AI Solutions:**
+   - Providing domain AI solutions for business operations across industries, including deploying over 150 AI agents.
+
+7. **GenAI-Infused Services:**
+   - Delivering GenAI-infused services in areas such as software engineering, IT operations, technology modernization, and cybersecurity.
+
+8. **AI-Driven Business Transformation:**
+   - Deep adoption and infusion of AI and GenAI across TCS offerings, including agentic AI for autonomous operations and enterprise functions (e.g., ‘dark factories’ and intelligent agents).
+
+9. **Reimagining Industries with AI:**
+   - Using AI and GenAI to revolutionize processes in sectors like banking, media, automotive, and energy through product innovation, personalized customer experiences, and optimizing supply chains.
+
+In summary, TCS’s key AI/GenAI initiatives focus on enterprise adoption (GenAI offices), platform development (energy optimization), Centers of Excellence and labs, AI-as-a-Service, domain solutions with AI agents, and embedding GenAI in a wide range of business operations and offerings.",14.15,0,"The answer misses specific key initiatives explicitly named in the TCS Annual Report, such as ""TCS WisdomNext platform"" and ""drug discovery solutions,"" which were expected as per the guideline. Instead, it summarizes themes and activities rather than naming the concrete initiatives, making the answer less precise and not fully aligned with the expected factual details."
+6,6,Medium,What are the key AI/GenAI initiatives mentioned in the report?,"TCS WisdomNext platform, AI agents, drug discovery solutions, etc.",Multiple Queries,"Based on the provided excerpts from the TCS Annual Report, the **key AI/GenAI initiatives** mentioned are:
+
+1. **Talent Development in AI/GenAI:**
+   - Launching AI/GenAI-first methodologies.
+   - Significant investments in empowering employees to experiment with AI.
+   - Skilling programs leading to 100,000+ certifications in AI/ML and GenAI, including certifications across AWS, Google Cloud, Microsoft, and GitHub.
+   - AI-specific learning initiatives such as:
+     - AI Interview Coach
+     - GenAI content creation for course modules and assessments
+     - Simulation-based training
+
+2. **Enterprise-Grade GenAI Platform:**
+   - Launch of the **TCS WisdomNext™** enterprise-grade GenAI platform.
+
+3. **AI Workforce and Operations:**
+   - Establishing a large pool of AI agents to work alongside the human workforce.
+   - Delivering solutions using a human + AI model.
+
+4. **Infrastructure and Partnerships:**
+   - Investments in AI data centers and cloud infrastructure.
+   - Building partnerships with hardware providers, solution innovators, and startups.
+
+5. **AI/GenAI for Clients and Operations:**
+   - AI-driven productivity improvements in software development (example: Proximus project).
+   - Proactive monitoring and predictive IT operations to reduce operational costs.
+   - Real-time personalized promotions, accelerated product launches, and enhanced customer experience via AI/GenAI.
+
+6. **AI Centers and Labs:**
+   - Establishment of AI Centers of Excellence for enterprise AI strategies.
+   - AI labs for technology experimentation with clients.
+
+7. **GenAI-infused Services:**
+   - GenAI-infused services for software engineering, IT operations, technology modernization, and cybersecurity.
+   - Providing over 150 AI agents for domain-specific business operations.
+   - Building safe, secure, and scalable GenAI-as-a-service platforms.
+
+8. **AI-powered Energy Platform:**
+   - AI-powered Clever Energy platform to help optimize energy consumption and reduce emissions and costs.
+
+**In summary:** TCS’s key initiatives in AI and GenAI include major talent upskilling programs, launch of the WisdomNext™ platform, deployment of AI agents, investments in infrastructure and partnerships, creation of AI Centers of Excellence and labs, rollout of GenAI-infused business solutions, and the development of an AI-powered platform for energy optimization.",10.13,1,"The actual answer accurately lists key AI/GenAI initiatives mentioned in the TCS Annual Report, including the TCS WisdomNext platform, AI agents, talent development, partnerships, centers of excellence, and AI-powered solutions such as Clever Energy. These align well with the expected answer and provide comprehensive coverage of TCS's major AI/GenAI efforts."
+7,7,Medium,What major partnerships or client wins are highlighted in the report?,"Air New Zealand, Xerox, Primark, DNB, etc.",Basic RAG,"Based only on the information provided above, the excerpts from the TCS Annual Report do **not** specifically highlight any major partnerships or client wins. The report mentions that TCS’s customers are typically Fortune 1000 or Global 2000 companies and describes general channels of client engagement, but it does not name any specific partnerships, new client acquisitions, or significant deals within the provided context.
+
+**In summary:**  
+There is not enough information in the supplied excerpts to identify or describe any major partnerships or client wins highlighted in the TCS Annual Report.",2.24,1,"The answer correctly states that, based on the provided information, there are no specific major partnerships or client wins mentioned. This is factually accurate given only the supplied excerpts, even though the expected answer lists examples from the full report."
+7,7,Medium,What major partnerships or client wins are highlighted in the report?,"Air New Zealand, Xerox, Primark, DNB, etc.",Query Expansion,"Based on the information provided from the TCS Annual Report excerpts, the following **major partnerships or client wins** are highlighted:
+
+1. **DNB Partnership**:  
+   - TCS partnered with DNB, aiming to enhance the bank’s IT operations for greater stability and efficiency, particularly in application maintenance and development. The goal is to help DNB become Europe’s most efficient digital bank.
+
+2. **Expanded Relationship with Northern Trust**:  
+   - TCS expanded its strategic relationship with Northern Trust to enhance its global securities settlements platform across 99 markets. This involves leveraging the TCS BaNCS™ platform for improved trade processing, settlement standardization, and enhanced AI capabilities.
+
+3. **Air New Zealand Partnership**:  
+   - TCS signed a five-year partnership with Air New Zealand to modernize the airline's technology systems.
+
+4. **Strategic Deal with Mansfield Building Society (UK)**:  
+   - TCS signed a strategic deal to digitally transform Mansfield Building Society’s services in the UK by migrating its digital banking solutions to the cloud and integrating with best-in-class ecosystem partners.
+
+Additionally, there is mention of:
+- **Strengthening partnerships with hyperscalers** (major cloud providers) to co-create solutions and deliver unique offerings.
+- **Collaboration with Google Cloud** to leverage security solutions and strengthen cloud security for clients.
+
+**In summary:** The major partnerships or client wins highlighted are with DNB, Northern Trust, Air New Zealand, and Mansfield Building Society, as well as collaborations with major cloud providers such as Google Cloud.",7.67,1,"The answer correctly lists major partnerships and client wins highlighted in the TCS Annual Report, such as Air New Zealand and DNB, which align with the expected answer. It also provides additional accurate examples (Northern Trust, Mansfield Building Society) and mentions relevant cloud partnerships, making it both factually correct and comprehensive."
+7,7,Medium,What major partnerships or client wins are highlighted in the report?,"Air New Zealand, Xerox, Primark, DNB, etc.",Multiple Queries,"Based only on the provided excerpts from the TCS Annual Report, the report **does not specify the names of major partnerships or client wins**. It does describe TCS’s approach to partnerships and client engagement, such as:
+
+- Collaborating with a diverse ecosystem that includes start-ups, developers, design thinkers, and academia.
+- Co-innovating with customers through dedicated innovation hubs and research partnerships, for example, mentioning the “TCS GoZero Hub.”
+- Leveraging partnerships and platforms to expand service portfolios, delivery models, and stimulate productized SaaS offerings.
+- Engaging globally through summits, trade shows, and vendor partner events.
+- Operating a global innovation network with 11 Pace Ports and studios for collaboration.
+
+However, **there are no specific client names, major partnership announcements, or detailed client wins mentioned in these excerpts**.
+
+**Conclusion:**  
+The context provided does not contain enough specific information to identify or highlight major partnerships or client wins by name. It only discusses TCS’s general strategy and approach to partnerships and innovation.",7.3,1,"The answer accurately reflects the content of the provided excerpts, stating that no specific client or partnership names are mentioned. Since the evaluation is based only on the provided context (which lacks the expected named examples), the answer is factually correct and aligns with what was available, even if it doesn't list the expected clients due to limitations of the provided information."
+8,8,Hard,"How is TCS positioning itself for the AI transformation, and what specific investments are they making?","Largest AI-trained workforce, TCS WisdomNext platform, AI data centers, human+AI model, etc.",Basic RAG,"**Based on the excerpts from the TCS Annual Report, here’s how TCS is positioning itself for the AI transformation, and the specific investments they are making:**
+
+### **How TCS is Positioning Itself for AI Transformation**
+- **Extensive Focus on AI Across Domains:** TCS is investing extensively in AI to redefine both knowledge work domains (such as software engineering, technology modernization, marketing, energy management, drug discovery, diagnosis and personalized cure) and physical work domains (logistics and warehouse management, robotics).
+- **Industry and Function-Specific Solutions:** TCS anticipates that as AI adoption increases, data, models, and agents will become more tailored to specific industries or functions.
+- **Leadership Recognition:** TCS is recognized by analysts as a leader in AI, generative AI (GenAI), analytics, data, and automation.
+
+### **Specific Investments TCS is Making**
+1. **AI-First Software Development, Maintenance, and Operations**
+   - Developing an ""enterprise-grade AI-infused SDLC, IT & business process operations,"" integrating responsible AI tooling and leveraging both TCS and partner intellectual property.
+
+2. **AI-Native Application Modernization**
+   - Using proprietary platforms (TCS MasterCraft™, TCS Crystallus™, and WisdomNext™) and GenAI to modernize legacy application estates for clients.
+
+3. **Reimagined Value Chains Powered by AI**
+   - Cataloguing numerous AI use-cases and autonomous agents on their AI platform, WisdomNext™, to transform customer value chains.
+
+4. **Partner-Led AI Co-Innovation**
+   - Establishing geo-spread, dedicated partner teams to deepen AI co-innovation—especially with major hyperscalers (large cloud providers) and the wider ecosystem.
+
+5. **AI Advisory and Consulting**
+   - Providing strategic advisory for CXOs—covering technology fit, value realization, talent impact, and emerging regulation (e.g., EU AI Act).
+
+6. **Building AI Ecosystem Infrastructure**
+   - Investing in cloud migration, infrastructure updates, and a strong data foundation as prerequisites for AI transformation.
+   - Continued investments in cybersecurity to protect valuable intellectual property and customer data as AI adoption increases.
+
+7. **Innovation Network and Collaboration**
+   - Operating 11 ""Pace Ports and Studios"" globally, which foster CXO collaboration, design thinking, and agile prototyping on AI and related technologies.
+
+### **Summary**
+TCS is preparing for the AI transformation by investing heavily in AI-infused tools and platforms, modernizing enterprise applications with AI, building packaged AI use-cases, driving co-innovation with partners, providing strategic consulting, and investing in supporting digital infrastructure (cloud, cybersecurity, and data foundation). Their global innovation network supports these goals through collaborative solution development.
+
+---
+
+**If you need more detail on any specific investment area, let me know!**",17.75,1,"The answer is factually correct and aligns well with the expected answer. It covers TCS's positioning with AI, including references to the largest AI-trained workforce (implied via focus on workforce and expertise), specific platforms like TCS WisdomNext, infrastructure such as AI data centers and cybersecurity investments, the “human+AI” model (addressed through process reimagination and advisory services), and co-innovation/partner collaborations. The answer also lists relevant proprietary platforms, AI-infused SDLC, and modernization efforts, meeting the criteria in the expected response."
+8,8,Hard,"How is TCS positioning itself for the AI transformation, and what specific investments are they making?","Largest AI-trained workforce, TCS WisdomNext platform, AI data centers, human+AI model, etc.",Query Expansion,"Based solely on the information provided from the TCS Annual Report excerpts, **TCS is positioning itself for the AI transformation through a multi-faceted, strategic approach focused on technology, talent, partnerships, and infrastructure**. Here’s a summary of their positioning and specific investments:
+
+---
+
+## 1. **AI-Native Application Modernization & AI-First Operations**
+- **Investing in AI for application modernization**: TCS combines its deep knowledge of legacy systems with generative AI, leveraging proprietary tools like TCS MasterCraft™, TCS Crystallus™, and the WisdomNext™ platform to help customers transform technology estates.
+- **Differentiated AI-infused SDLC**: TCS is developing enterprise-grade, AI-infused software development, maintenance, and operations, integrated with responsible AI tooling and both TCS and partner intellectual property.
+
+---
+
+## 2. **Proprietary Platforms & Solutions**
+- **WisdomNext™**: Launched as an enterprise-grade GenAI platform to catalog packaged use-cases and autonomous agents.
+- **AI in Value Chains**: Building out AI-powered value chains using data, models, and agents, with numerous packaged use-cases and autonomous agents already in their platform.
+
+---
+
+## 3. **Partner Ecosystem and Co-Innovation**
+- **Partner-led AI Co-Innovation**: Dedicated teams are set up worldwide to co-innovate with hyperscalers, hardware providers, solution innovators, and startups to deepen ecosystem synergies.
+
+---
+
+## 4. **Strategic Advisory**
+- TCS offers AI advisory and consulting services for CXOs to assist in navigating technology fit, value realization, talent impact, and regulatory issues (e.g., EU AI Act).
+
+---
+
+## 5. **Human+AI Workforce and Talent Development**
+- **Largest AI-trained workforce planned for 2025**.
+- **Scaling AI skilling**:
+  - 100,000+ higher order AI/ML and GenAI skills acquired.
+  - 402,000+ employees pursued learning linked to career growth.
+  - Recognized as #1 in AI & Data certifications across AWS, Google Cloud, Microsoft, and GitHub.
+- **Innovative Training**: Tools such as AI Interview Coach, GenAI content creation, simulation-based training, etc.
+- **Employee Learning**: Average 96.4 learning hours per employee.
+
+---
+
+## 6. **Infrastructure Investments**
+- **Planned investments** in AI data centers and cloud infrastructure to support scalable, resilient AI solutions.
+
+---
+
+## 7. **Research, Innovation, and Intellectual Capital**
+- **Strong innovation engine**:
+  - 6,000+ researchers and innovators.
+  - 40+ research and innovation centers.
+  - PACE Ports (co-innovation hubs) in major cities.
+  - 4,820 patents granted/8,816 filed.
+  - Collaboration with 51 academic partners and 3,000+ startups.
+
+---
+
+## 8. **AI for Industry and Society**
+- **AI-driven transformation** across knowledge domains (software engineering, marketing, energy management, healthcare) and physical domains (intelligent robotics for logistics and warehouse management).
+- **Purposeful AI**: Emphasizing integration of human ingenuity, contextual knowledge, predictive intelligence, and humanized semantic interactions.
+
+---
+
+## 9. **Future Roadmap**
+Outlined four distinct upcoming progressions:
+1. Establishing a large pool of AI agents to work alongside humans.
+2. Delivering solutions through a “Human + AI” model.
+3. Investing in AI data centers and cloud infrastructure.
+4. Deepening partnerships with hardware providers, innovators, and startups.
+
+---
+
+### **Summary Table**
+
+| Focus Area                      | Specific Investments/Initiatives                                                               |
+|----------------------------------|----------------------------------------------------------------------------------------------|
+| AI-First Digital Transformation | AI-native modernization (MasterCraft™, Crystallus™, WisdomNext™); AI-infused SDLC            |
+| Proprietary Platforms           | WisdomNext™, catalog of agents/use-cases                                                      |
+| Talent & Skilling               | Largest AI-trained workforce, 100k+ certifications, advanced trainings                        |
+| Infrastructure                  | Planned investment in AI datacenters, cloud infrastructure                                    |
+| Ecosystem                       | Dedicated geo-spread teams for hyperscaler/startup co-innovation, 3,000+ startup partners     |
+| R&I                             | 40+ innovation centers, 6,000+ researchers, 8,816 patents filed, 51 academic partners         |
+| Strategic Advisory              | End-to-end AI consulting for CXOs, navigating tech/regulatory landscape                       |
+| Human-Machine Collaboration     | Large pool of AI agents, Human + AI delivery model                                            |
+| Industry Transformation         | AI in knowledge and physical domains, e.g., robotics in logistics, healthcare AI, etc.        |
+
+---
+
+**In summary:**  
+TCS is positioning itself as an industry leader in the AI transformation by investing in proprietary AI platforms, upskilling its workforce at scale, expanding its research and co-innovation ecosystem, building AI-ready infrastructure, and supporting clients from strategy through scaled execution, with a strong emphasis on responsible and purposeful AI.",31.28,1,"The answer is factually correct and aligns well with the expected answer. It specifically mentions TCS’s investments in creating the largest AI-trained workforce, the WisdomNext™ platform, AI data centers/infrastructure, the human+AI model, proprietary platforms, talent skilling, and co-innovation—all of which match or expand upon the expected points. The response is detailed, comprehensive, and directly addresses how TCS is positioning itself for AI transformation with specific investments."
+8,8,Hard,"How is TCS positioning itself for the AI transformation, and what specific investments are they making?","Largest AI-trained workforce, TCS WisdomNext platform, AI data centers, human+AI model, etc.",Multiple Queries,"**TCS is positioning itself as a leader in the AI transformation** by:
+
+- **Redefining knowledge and physical work domains**: TCS is investing in AI to transform areas like software engineering, technology modernization, marketing, energy management, drug discovery, diagnostics, and personalized medicine. For physical domains such as logistics and warehouse management, they are developing intelligent robots and orchestration platforms.
+
+- **Industry-specific AI solutions**: As AI adoption increases, TCS anticipates more domain-specific AI models and agents. They are investing in solutions tailored to particular industries and functions.
+
+**Specific investments TCS is making include:**
+
+1. **AI-First Approaches**
+   - Significant investments in AI-first software development, maintenance, and operations.
+   - Innovation in frameworks, methods, and guardrails for enterprise-grade AI usage.
+
+2. **Talent Development & Reskilling**
+   - Large-scale reskilling of TCS associates in AI and related technologies.
+   - Launching initiatives to foster competency in disruptive technologies, with a focus on AI/GenAI-first methodologies.
+   - Over 100,000 associates acquired higher-order skills in AI/ML and GenAI; 402,000+ pursued learning aligned to career growth.
+   - Recognized as #1 in AI & data certifications (including AWS, Google Cloud, Microsoft, GitHub).
+
+3. **Infrastructure & Safe Environments**
+   - Investments in cloud migration, infrastructure modernization, and building a robust data foundation for AI adoption.
+   - Creating infrastructure and safe environments to experiment with and deploy AI.
+
+4. **Cybersecurity**
+   - Strengthening cybersecurity management and consulting services as AI transforms operations and increases cyber risk.
+
+5. **Partnerships & Standards**
+   - Working with standards and regulatory bodies for the safe use of new technologies.
+
+6. **Innovation and Offerings**
+   - Infusion of AI across all offerings, including development of intelligent AI agents.
+   - Investment in research and new capabilities to support AI-driven software development methods.
+
+**Summary:**  
+TCS is strategically positioning itself as an enterprise AI leader by investing in AI-first development, industry- and domain-specific solutions, massive talent reskilling, modernized infrastructure and cloud platforms, cybersecurity, and close alignment with standards bodies. Their comprehensive approach encompasses internal capability building and external client transformation.",11.12,1,"The actual answer is factually correct and aligns with the expected answer. It details TCS's investments in AI skill development (largest AI-trained workforce), describes infrastructure investments (cloud, data), highlights industry-specific solutions, mentions the infusion of AI into offerings, and references safe/regulated AI adoption—all of which reflect core points in the expected answer (e.g., TCS WisdomNext platform, AI data centers, human+AI models). While the answer does not specifically name ""WisdomNext,"" it broadly covers the areas implied and is sufficiently detailed and accurate."
+9,9,Hard,What are the key challenges TCS faced in FY 2025 and how did they address them?,"Geopolitical disruption, supply chain impacts - addressed through client partnerships, technology transformation",Basic RAG,"Based on the provided excerpts from the TCS Annual Report, the key challenges TCS faced in FY 2025 and their responses were as follows:
+
+### **Key Challenges:**
+
+1. **Technology-Led Disruption:**
+   - Emergence of cost-effective new AI models reducing demand for traditional programming and related services.
+   - Advances such as new quantum chips promising to solve complex problems far faster, disrupting existing technology paradigms.
+
+2. **Economic Downturns and Changing Technology Waves:**
+   - Pressure on financial performance due to global economic challenges and rapid shifts in technology preferences.
+
+3. **Cost Pressures:**
+   - Impact from annual wage hikes, employee promotions, and strategic investments in infrastructure and capability development.
+   - Slight decline in operating margin (down by 30 bps to 24.3% in FY 2025) due to these factors.
+
+4. **Sustainability and Carbon Reduction:**
+   - The need to reduce Scope 1, 2, and 3 emissions, as well as overall carbon footprint, in response to increasing environmental responsibilities and stakeholder expectations.
+
+5. **Unabating Transformation & Uncertainty:**
+   - Rapidly changing business environment driven by evolving technologies, geopolitical factors, and shifting consumer demands.
+   - The necessity for continuous adaptation and innovation.
+
+
+### **How TCS Addressed These Challenges:**
+
+1. **Leveraging Research, Innovation, and Emerging Technologies:**
+   - Proactively investing in research and innovation.
+   - Using intellectual property and contextual customer knowledge to develop and pitch innovative ideas and solutions.
+
+2. **Launching New Services and Platforms:**
+   - Introducing innovative services, products, and platforms to create value for clients and help them differentiate competitively.
+
+3. **Prudent Financial Management:**
+   - Careful use of working capital and strong cash flow management, resulting in robust cash conversion and increased investments.
+   - Maintaining a zero-debt balance sheet, which strengthened financial stability and return ratios.
+
+4. **Operational Efficiency:**
+   - Cost pressures from wage hikes and investments were partially offset by:
+     - Improvements in workforce utilization,
+     - Enhanced productivity, and
+     - Better realization.
+
+5. **Sustainability Initiatives:**
+   - Implementing measures to reduce emissions from employee commutes, transition to electric vehicles, encourage public transport, reduce business travel, and invest in sustainable aviation fuel.
+   - Achieved significant reductions in carbon footprint (84% reduction in Scope 1 & 2 emissions since FY 2016, 32% reduction in Scope 3 emissions since FY 2020).
+
+6. **Building a Perpetually Adaptive Enterprise:**
+   - Embracing rapid innovation, new ways of working, a purpose-led sustainable growth strategy, continuous learning, and ecosystem collaboration.
+   - Leveraging technology to anticipate risks and seize opportunities in a volatile environment.
+
+---
+
+**Summary:**  
+TCS faced significant challenges in FY 2025, including technological disruption (AI, quantum computing), macroeconomic uncertainties, cost pressures, and climate-related responsibilities. They addressed these through continuous innovation, prudent financial management, operational efficiency improvements, and strong commitments to sustainability, while cultivating an adaptive, future-ready enterprise.",8.87,1,"The actual answer is factually detailed and aligns well with the expected answer. It covers key challenges such as technological disruption (AI, quantum computing), economic downturns, cost pressures, and sustainability, and explains how TCS addressed them through innovation, client partnerships, technology transformation, financial management, and sustainability initiatives. The response captures the main issues and solutions as reflected in the TCS Annual Report for FY 2025."
+9,9,Hard,What are the key challenges TCS faced in FY 2025 and how did they address them?,"Geopolitical disruption, supply chain impacts - addressed through client partnerships, technology transformation",Query Expansion,"Based on the provided excerpts from the TCS Annual Report, the key challenges TCS faced in FY 2025 and their responses are as follows:
+
+**Key Challenges:**
+1. **Technology Disruption:** Traditional industry boundaries are blurring due to rapid technology advancements, requiring cross-industry expertise and constant adaptation.
+2. **Talent Management:** Attracting, retaining, and reskilling a highly skilled workforce remains challenging in a competitive global market.
+3. **Intense Competition:** The IT services sector faces strong competition from other global companies.
+4. **Profitability Risks:** Factors such as wage increases, currency fluctuations (like an appreciating rupee), and contract risks (time and cost overruns) can impact profitability.
+5. **Complex and Evolving Business Environment:** The need for organizations to remain agile, resilient, and in tune with societal expectations amid continuous change.
+
+**How TCS Addressed These Challenges:**
+1. **Adaptation and Innovation:** TCS emphasized perpetual adaptation and cross-industry expertise, scaling its capabilities by continually reskilling talent and driving innovation through its research and collaborative mindset.
+2. **Talent Development Initiatives:** TCS undertook significant hiring (42,000 freshers), enhanced internal talent pools, and rolled out GenAI-powered tools (like interview coaches, coding tutors, and AI communication coaches) to improve talent development and readiness for critical skills.
+3. **Long-Term Customer Relationships:** The company’s strategy focused on maintaining deep and enduring relationships with clients, enabling them to navigate technological change together.
+4. **Responsible and Inclusive Growth:** TCS committed to responsible innovation, community engagement, environmental stewardship, and digital inclusion, aligning business goals with societal impact.
+5. **Organizational Agility:** The company promoted a culture of lifelong learning, internal internships, and specialized skill development to ensure its workforce stayed ‘future-ready’ amid a rapidly changing environment.
+
+**Summary:**  
+TCS faced technology disruption, talent management challenges, industry competition, and changing business complexities in FY 2025. The company addressed these with continuous adaptation, aggressive talent development, investment in innovation, and a strong focus on responsible, inclusive business practices.",15.38,1,"The actual answer accurately identifies key challenges TCS faced in FY 2025 (technology disruption, talent management, competition, profitability risks, evolving business environment), and describes how TCS addressed them (adaptation, talent development, client partnerships, innovation, inclusive growth). It aligns with the expected answer by mentioning both the specific and broader enterprise-level responses to these challenges, providing a factually correct and comprehensive summary."
+9,9,Hard,What are the key challenges TCS faced in FY 2025 and how did they address them?,"Geopolitical disruption, supply chain impacts - addressed through client partnerships, technology transformation",Multiple Queries,"Based on the provided excerpts from the TCS Annual Report, the **key challenges TCS faced in FY 2025** and the ways in which they addressed them are as follows:
+
+### Key Challenges Faced
+
+1. **Challenging Geopolitical and Macro-Economic Environment**
+   - The company references operating in a ""very challenging geopolitical and macro-economic environment,"" which likely includes political uncertainties, economic slowdowns, inflationary pressures, and global instability.
+
+2. **Rapid Technological Change**
+   - The technology sector is described as ""constantly changing,"" with unabating transformation driven by emerging technologies (possibly AI, cloud, etc.), requiring TCS to continuously adapt.
+
+3. **Talent Retention and Workforce Adaptation**
+   - Continuous need to reskill and retain a large, diverse, and geographically spread workforce amid rapid change.
+
+4. **Need for Social Impact and Inclusion**
+   - Societal expectations for businesses to drive positive social change, particularly regarding access, equity, and inclusion.
+
+5. **Maintaining Operational Excellence and Financial Performance**
+   - The need to optimize costs and maintain strong operating margins amid uncertainty and change.
+
+### How TCS Addressed These Challenges
+
+1. **Perpetual Adaptation and Innovation**
+   - TCS emphasizes being a ""perpetually adaptive enterprise"" that thrives in uncertainty through rapid innovation, adopting new ways of working, sustainable growth, continuous learning, and ecosystem collaboration.
+
+2. **Focus on Operational Excellence and Cost Optimization**
+   - Maintained strong operational margins and achieved year-over-year revenue growth (6.0%, and 4.2% in constant currency) by focusing on operational excellence and cost control.
+
+3. **Investment in Workforce Development and Retention**
+   - Invested in upskilling, exposure to real-world projects, and leadership development (e.g., 77 leaders graduated from intensive programs), which helped keep attrition at 13.3%, a benchmark rate in the industry.
+
+4. **Business With Purpose (BWP) Initiatives**
+   - Established ""purpose partnerships"" to accelerate social good, addressing needs like education, skill development, and employment, expanding TCS’s impact beyond pure business goals.
+
+5. **Promoting Inclusion and Diversity**
+   - Continued dedication to an inclusive culture, supporting equal opportunity, and fostering diversity as key to innovation and creativity.
+
+6. **Customer and Ecosystem Engagement**
+   - Strengthened relationships with clients and partners, leveraged expertise to develop contextual solutions, and benefited from government investments in digital public services.
+
+### Summary Table
+
+| Challenge                                      | How TCS Addressed It                                                             |
+|------------------------------------------------|-----------------------------------------------------------------------------------|
+| Geopolitical & macro-economic uncertainty      | Focus on operational excellence, strong client relationships, and adaptability    |
+| Rapid tech change/disruption                   | Perpetual adaptation, ongoing workforce learning, investment in innovation        |
+| Talent retention and development               | Leadership development, low attrition rate, reskilling, and diverse workforce     |
+| Social impact expectations (access, equity)    | BWP framework, purpose partnerships, and societal-focused projects                |
+| Operational & financial performance            | Cost optimization, superior profitability, strong revenue growth                  |
+
+**In conclusion:**  
+TCS's resilience in FY 2025 was driven by ongoing adaptation to technological and macro-economic changes, focused development and retention of its talent, sustained operational and financial excellence, and a deeper commitment to social purpose and inclusion.",14.61,1,"The answer is factually correct and aligns with the expected answer. It identifies key challenges such as geopolitical disruption, supply chain and macro-economic impacts, and talent retention, all referenced in the expected answer. It also describes how TCS addressed these challenges, including through client partnerships and technology transformation, operational excellence, workforce development, and social impact initiatives. The answer is detailed and covers all relevant points accurately."
+10,10,Hard,"Based on the Chairman's letter, what are the four key progressions TCS plans for the future?","1) AI agents pool, 2) Human+AI delivery, 3) AI data center investments, 4) Industry partnerships",Basic RAG,"Based only on the information provided above, the excerpts do not include the actual content of the Chairman's letter or a clear enumeration of the four key progressions TCS plans for the future, as referenced in the question. The context given discusses general risks, past themes from annual reports, TCS's focus on AI, data, cloud, and digital technologies, and mentions innovation and adaptability, but **does not explicitly list four specific progressions outlined in the Chairman's letter**.
+
+**Therefore, based on the provided information, it is not possible to clearly and accurately identify the four key progressions TCS plans for the future as stated by the Chairman.**",2.51,1,The answer accurately points out that the provided information does not contain the necessary details from the Chairman's letter to identify the four key progressions. This is both factually correct and aligns with what is possible given the supplied context.
+10,10,Hard,"Based on the Chairman's letter, what are the four key progressions TCS plans for the future?","1) AI agents pool, 2) Human+AI delivery, 3) AI data center investments, 4) Industry partnerships",Query Expansion,"Based only on the excerpts provided from the TCS Annual Report and specifically referencing the Chairman’s letter, the **four key progressions TCS plans for the future** are:
+
+1. **High-Performance, Fault-Tolerant, and Energy-Efficient Computing Systems**  
+   TCS plans to invent advanced computing systems to meet the growing demands of AI and physics-based systems, which are seen as the backbone for businesses in the future.
+
+2. **Digital Sciences**  
+   TCS will focus on transforming materials, manufacturing, biology, and human behavior by inventing at the intersections of computing and various sciences to explore newer approaches and transform multiple sectors.
+
+3. **Sustainable Futures**  
+   The company will build sustainability by inventing solutions for people and the planet. This includes leveraging computing to advance energy transitions, promoting circularity, and supporting environmental, social, and corporate governance, and sustainable development.
+
+4. **Innovation at Speed and Scale through Ecosystems**  
+   TCS leverages its innovation ecosystem—which includes academia, industry alliances, startups, venture capitalists, and consultants—to create and scale innovations rapidly, ensuring broad and impactful progress in technology and business.
+
+**Summary:**  
+The four key progressions are:  
+- Advanced computing systems  
+- Digital sciences transformation  
+- Building sustainable futures  
+- Rapid, ecosystem-driven innovation
+
+These are explicitly outlined in the context, and no additional assumptions were made.",9.9,0,"The actual answer does not align with the expected answer. The key progressions listed (advanced computing systems, digital sciences, sustainability, ecosystem-driven innovation) do not match the expected four: AI agents pool, Human+AI delivery, AI data center investments, and industry partnerships. The answer is detailed but does not address the specific progressions asked for in the question."
+10,10,Hard,"Based on the Chairman's letter, what are the four key progressions TCS plans for the future?","1) AI agents pool, 2) Human+AI delivery, 3) AI data center investments, 4) Industry partnerships",Multiple Queries,"Based on the provided excerpts from the TCS Annual Report, the four key progressions TCS plans for the future, as outlined in the Chairman's letter, are:
+
+1. **High-Performance, Energy-Efficient Computing Systems**  
+   TCS is focused on inventing computing systems that meet the growing demands of artificial intelligence (AI) and physics-based systems. These systems are intended to be high performance, fault-tolerant, and energy-efficient, forming the backbone for future business needs.
+
+2. **Digital Sciences**  
+   TCS plans to drive transformation in materials, manufacturing, biology, and human behavior through innovations at the intersections of computing and scientific disciplines. The company seeks to create newer approaches to science by leveraging digital sciences.
+
+3. **Sustainable Futures**  
+   TCS emphasizes inventing solutions for people and the planet. This includes applying computing to support energy transition, circularity, environmental stewardship, social and corporate governance, and sustainable development.
+
+4. **Fostering Deeper Societal Impact through Responsible Innovation**  
+   The company is committed to fostering deeper engagement with communities, advocating for environmental stewardship, and promoting digital inclusion. This is guided by a philosophy of combining innovation, human ingenuity, and responsible leadership to contribute to a more sustainable, inclusive, and equitable future.
+
+**Summary:**  
+TCS’s four key progressions for the future are: (1) advanced computing systems for AI, (2) transformation through digital sciences, (3) promoting sustainable futures, and (4) fostering societal impact through responsible innovation.",7.62,0,"The actual answer lists broader thematic areas from the Chairman's letter rather than the specific four key progressions expected: AI agents pool, Human+AI delivery, AI data center investments, and Industry partnerships. The content in the actual answer does not explicitly mention or clearly align with these four specific progressions."
