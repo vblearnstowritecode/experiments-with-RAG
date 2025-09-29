@@ -30,10 +30,15 @@ This repository contains my further experiments and implementations based on the
 
 This work builds upon concepts and techniques learned from the Advanced Retrieval for AI course by DeepLearning.AI. The course provided excellent foundational knowledge on embeddings, vector databases, and retrieval-augmented generation patterns.
 
+## What We Learned
+
+We built a simple system that can answer questions about TCS Annual Report by finding relevant text chunks and using AI to generate answers. We tested three different approaches: basic search, expanded queries, and smart re-ranking (based on the Advanced Retrieval for AI course). Then we created an embedding adaptor experiment - a small neural network that learns to transform questions to find better matching documents. This taught us how parameter-efficient adaptation works (like LoRA) where a tiny matrix can improve retrieval for domain-specific language. The key insight: you don't need to retrain huge models, just learn small transformations that rotate questions in embedding space to match documents better.
+
 ## Current Status
 
 ✅ **Complete RAG Pipeline**: Fully operational with 1,324 document chunks
 ✅ **Three RAG Methods**: All approaches implemented and tested
+✅ **Embedding Adaptor**: Parameter-efficient adaptation experiment complete
 ✅ **Evaluation Framework**: 10-question test set with judge LLM scoring
 ✅ **Clean Architecture**: Modular `tcs_rag.py` with reusable functions
 ✅ **Performance Analysis**: Comprehensive evaluation and comparison system
@@ -50,6 +55,7 @@ This work builds upon concepts and techniques learned from the Advanced Retrieva
 
 - `tcs_rag_notebook.ipynb` - Main RAG implementation and pipeline
 - `tcs_rag_evaluation.ipynb` - Evaluation framework and testing
+- `embedding_adaptor_experiment.ipynb` - Parameter-efficient embedding adaptation learning
 - `tcs_rag.py` - Clean Python module with reusable RAG functions
 - `tcs_annual_report.md` - Extracted knowledge base content
 - `pyproject.toml` - Dependencies and project configuration
